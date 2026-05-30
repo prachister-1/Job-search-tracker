@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UK VP Product Job Tracker</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0f172a;color:#e2e8f0;min-height:100vh}
+header{background:#1e293b;border-bottom:1px solid #334155;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:10}
+h1{font-size:1.1rem;font-weight:700;color:#f8fafc}
+.subtitle{font-size:0.72rem;color:#64748b;margin-top:2px}
+.badge{background:#0ea5e9;color:white;font-size:0.7rem;padding:2px 8px;border-radius:999px;font-weight:600}
+.badge-green{background:#15803d}
+.last-updated{font-size:0.72rem;color:#64748b}
+.container{max-width:1500px;margin:0 auto;padding:20px 24px}
+.tabs{display:flex;gap:4px;margin-bottom:0;border-bottom:1px solid #334155;padding-bottom:0}
+.tab{padding:9px 18px;font-size:0.85rem;cursor:pointer;border-radius:6px 6px 0 0;color:#94a3b8;border:1px solid transparent;border-bottom:none;margin-bottom:-1px;transition:all .15s}
+.tab.active{background:#1e293b;color:#f8fafc;border-color:#334155;border-bottom-color:#0f172a}
+.tab:hover:not(.active){color:#cbd5e1}
+.tab-content{background:#1e293b;border:1px solid #334155;border-top:none;border-radius:0 0 8px 8px;padding:20px;margin-bottom:20px}
+.filters{display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap;align-items:center}
+input.fi,select.fi{background:#0f172a;border:1px solid #334155;color:#e2e8f0;padding:7px 11px;border-radius:6px;font-size:0.82rem;outline:none}
+input.fi:focus,select.fi:focus{border-color:#0ea5e9}
+select.fi{cursor:pointer}
+.stats{display:flex;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+.stat{background:#0f172a;border:1px solid #334155;border-radius:8px;padding:10px 16px;min-width:90px}
+.stat-value{font-size:1.4rem;font-weight:700;color:#f8fafc}
+.stat-label{font-size:0.7rem;color:#64748b;margin-top:1px}
+table{width:100%;border-collapse:collapse}
+th{background:#0f172a;padding:9px 10px;text-align:left;font-size:0.7rem;font-weight:600;color:#64748b;text-transform:uppercase;letter-spacing:.05em;cursor:pointer;user-select:none;white-space:nowrap;border-bottom:1px solid #334155}
+th:hover{color:#94a3b8}
+td{padding:9px 10px;font-size:0.79rem;border-top:1px solid #1e293b;vertical-align:middle}
+tr:hover td{background:#ffffff05}
+tr.applied-row td{opacity:.45}
+.score{display:inline-flex;align-items:center;justify-content:center;width:27px;height:27px;border-radius:50%;font-weight:700;font-size:0.78rem}
+.s9{background:#15803d22;color:#4ade80;border:1px solid #15803d}
+.s7{background:#1d4ed822;color:#60a5fa;border:1px solid #1d4ed8}
+.s5{background:#92400e22;color:#fbbf24;border:1px solid #92400e}
+.s1{background:#7f1d1d22;color:#f87171;border:1px solid #7f1d1d}
+.abtn{padding:5px 11px;border-radius:5px;font-size:0.73rem;cursor:pointer;border:none;font-weight:600;transition:all .15s;white-space:nowrap}
+.abtn-go{background:#0ea5e9;color:white}
+.abtn-go:hover{background:#0284c7}
+.abtn-done{background:#15803d22;color:#4ade80;border:1px solid #15803d}
+.lbtn{padding:5px 10px;background:#2563eb;color:white;border-radius:5px;font-size:0.73rem;text-decoration:none;display:inline-block;transition:background .15s;white-space:nowrap}
+.lbtn:hover{background:#1d4ed8}
+.salary-y{color:#a3e635;font-size:0.75rem;white-space:nowrap}
+.salary-n{color:#334155;font-size:0.75rem}
+.company{font-weight:600;color:#f8fafc;font-size:0.82rem}
+.roletxt{color:#cbd5e1;line-height:1.35;font-size:0.79rem}
+.why{color:#475569;font-size:0.7rem;line-height:1.3;margin-top:2px;max-width:180px}
+.tag-y{display:inline-block;padding:1px 7px;border-radius:3px;font-size:0.68rem;background:#15803d22;color:#4ade80;border:1px solid #15803d44}
+.tag-n{display:inline-block;padding:1px 7px;border-radius:3px;font-size:0.68rem;background:#1e293b;color:#334155;border:1px solid #1e293b}
+.ncard{background:#0f172a;border:1px solid #334155;border-radius:8px;padding:14px;display:flex;align-items:center;gap:12px;margin-bottom:8px;transition:border-color .15s}
+.ncard:hover{border-color:#0ea5e9}
+.navatar{width:40px;height:40px;border-radius:50%;background:#1e293b;border:1px solid #334155;display:flex;align-items:center;justify-content:center;font-weight:700;color:#94a3b8;flex-shrink:0;font-size:.95rem}
+.nname{font-weight:600;font-size:.85rem;color:#f8fafc}
+.ntitle{font-size:.76rem;color:#94a3b8;margin-top:1px}
+.ncompany{font-size:.72rem;color:#64748b;margin-top:1px}
+.empty{text-align:center;padding:48px;color:#334155}
+.loading{text-align:center;padding:36px;color:#475569}
+.err{background:#7f1d1d22;border:1px solid #7f1d1d;color:#fca5a5;padding:10px 14px;border-radius:6px;margin-bottom:12px;font-size:.82rem}
+.acard{background:#0f172a;border:1px solid #334155;border-radius:8px;padding:12px 16px;display:flex;align-items:center;gap:14px;margin-bottom:8px}
+.acard-info{flex:1}
+.acard-company{font-weight:600;font-size:.85rem;color:#f8fafc}
+.acard-role{font-size:.78rem;color:#94a3b8;margin-top:2px}
+.acard-when{font-size:.7rem;color:#475569;margin-top:2px}
+.pulse{display:inline-block;width:6px;height:6px;border-radius:50%;background:#4ade80;margin-right:5px;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🎯 UK VP Product / CPO Job Tracker</h1>
+    <div class="subtitle">VP Product · CPO · VP Growth · Head of Product · Director (VP-scope) — Fintech · Travel · Loyalty · AI · Health · Entertainment</div>
+  </div>
+  <div style="text-align:right;display:flex;flex-direction:column;align-items:flex-end;gap:4px">
+    <div class="last-updated" id="lastUpdated">Loading...</div>
+    <div style="display:flex;gap:6px;align-items:center">
+      <span class="badge" id="totalBadge">...</span>
+      <span class="badge badge-green" id="applyBadge">...</span>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="tabs">
+    <div class="tab active" onclick="showTab('jobs')" id="tab-btn-jobs">💼 Jobs</div>
+    <div class="tab" onclick="showTab('network')" id="tab-btn-network">🤝 Network Contacts</div>
+    <div class="tab" onclick="showTab('applied')" id="tab-btn-applied">✅ Applied (<span id="appliedCount">0</span>)</div>
+  </div>
+
+  <!-- JOBS TAB -->
+  <div class="tab-content" id="tab-jobs">
+    <div class="stats">
+      <div class="stat"><div class="stat-value" id="stTotal">—</div><div class="stat-label">Jobs Found</div></div>
+      <div class="stat"><div class="stat-value" id="stApplyToday">—</div><div class="stat-label">Apply Today</div></div>
+      <div class="stat"><div class="stat-value" id="stApplied">—</div><div class="stat-label">Applied</div></div>
+      <div class="stat"><div class="stat-value" id="stTop">—</div><div class="stat-label">Score 8+</div></div>
+      <div class="stat"><div class="stat-value" id="stNew">—</div><div class="stat-label">Posted Today</div></div>
+    </div>
+    <div class="filters">
+      <input type="text" class="fi" id="fSearch" placeholder="🔍  Search company, role, keyword…" oninput="renderJobs()" style="width:240px">
+      <select class="fi" id="fScore" onchange="renderJobs()">
+        <option value="">All Scores</option>
+        <option value="9">9–10 ⭐⭐ Excellent</option>
+        <option value="8">8+ ⭐ Strong</option>
+        <option value="7">7+ Good</option>
+      </select>
+      <select class="fi" id="fStatus" onchange="renderJobs()">
+        <option value="">All Status</option>
+        <option value="no">Not Applied</option>
+        <option value="yes">Applied</option>
+      </select>
+      <select class="fi" id="fApplyToday" onchange="renderJobs()">
+        <option value="">All Jobs</option>
+        <option value="yes">Apply Today Only</option>
+      </select>
+      <button class="abtn abtn-go" onclick="resetApplied()" style="margin-left:auto;background:#334155;color:#94a3b8">↺ Reset Applied</button>
+    </div>
+    <div id="jobErr"></div>
+    <div id="jobLoad" class="loading"><span class="pulse"></span>Loading fresh jobs data…</div>
+    <div id="jobEmpty" class="empty" style="display:none">No jobs match your filters.</div>
+    <div style="overflow-x:auto">
+      <table id="jobTable" style="display:none">
+        <thead><tr>
+          <th onclick="sort('rank')">#</th>
+          <th onclick="sort('company')">Company</th>
+          <th onclick="sort('role')">Role</th>
+          <th onclick="sort('location')">Location</th>
+          <th onclick="sort('salary')">Salary</th>
+          <th onclick="sort('posted')">Posted</th>
+          <th onclick="sort('score')">Score</th>
+          <th>Priority</th>
+          <th>Status</th>
+          <th>Open</th>
+        </tr></thead>
+        <tbody id="jobBody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- NETWORK TAB -->
+  <div class="tab-content" id="tab-network" style="display:none">
+    <p style="font-size:.82rem;color:#64748b;margin-bottom:14px">Product leaders at companies hiring VP/CPO roles — reach out for referrals or warm intros.</p>
+    <div class="filters">
+      <input type="text" class="fi" id="fNetwork" placeholder="🔍  Search name, company, title…" oninput="renderNetwork()" style="width:280px">
+    </div>
+    <div id="netLoad" class="loading"><span class="pulse"></span>Loading network contacts…</div>
+    <div id="netBody"></div>
+  </div>
+
+  <!-- APPLIED TAB -->
+  <div class="tab-content" id="tab-applied" style="display:none">
+    <div id="appEmpty" class="empty" style="display:none">No jobs marked as applied yet.<br><br>Click <strong>Apply</strong> on any job, or open the LinkedIn link — it auto-marks as applied.</div>
+    <div id="appBody"></div>
+  </div>
+</div>
+
+<script>
+const JOBS_URL='https://raw.githubusercontent.com/prachister-1/Job-search-tracker/main/results/jobs.json';
+const NET_URL='https://raw.githubusercontent.com/prachister-1/Job-search-tracker/main/results/network.json';
+const AK='jt_applied_v2';
+
+let jobs=[],network=[],sortCol='rank',sortDir=1;
+
+// ── Applied storage ──────────────────────────────────────────────────
+function getApplied(){try{return JSON.parse(localStorage.getItem(AK)||'{}')}catch{return{}}}
+function saveApplied(o){localStorage.setItem(AK,JSON.stringify(o))}
+function toggleApplied(url){const a=getApplied();if(a[url])delete a[url];else a[url]=new Date().toISOString();saveApplied(a);refresh()}
+function resetApplied(){if(confirm('Clear all applied records?')){localStorage.removeItem(AK);refresh()}}
+
+// ── Tab switching ─────────────────────────────────────────────────────
+function showTab(t){
+  ['jobs','network','applied'].forEach(x=>{
+    document.getElementById('tab-'+x).style.display=x===t?'':'none';
+    document.getElementById('tab-btn-'+x).classList.toggle('active',x===t);
+  });
+  if(t==='network')renderNetwork();
+  if(t==='applied')renderApplied();
+}
+
+// ── Score colour ──────────────────────────────────────────────────────
+function sc(s){return s>=9?'s9':s>=7?'s7':s>=5?'s5':'s1'}
+
+// ── Stats ─────────────────────────────────────────────────────────────
+function updateStats(){
+  const a=getApplied();
+  const today=new Date().toISOString().slice(0,10);
+  document.getElementById('stTotal').textContent=jobs.length;
+  document.getElementById('stApplyToday').textContent=jobs.filter(j=>(j.applyToday||'').toUpperCase()==='YES').length;
+  document.getElementById('stApplied').textContent=jobs.filter(j=>a[j.url]).length;
+  document.getElementById('stTop').textContent=jobs.filter(j=>(+j.score||0)>=8).length;
+  document.getElementById('stNew').textContent=jobs.filter(j=>(j.posted||'').includes(today.slice(5))||false).length;
+  document.getElementById('totalBadge').textContent=jobs.length+' jobs';
+  document.getElementById('applyBadge').textContent=jobs.filter(j=>(j.applyToday||'').toUpperCase()==='YES').length+' apply today';
+  document.getElementById('appliedCount').textContent=jobs.filter(j=>a[j.url]).length;
+}
+
+// ── Jobs render ───────────────────────────────────────────────────────
+function renderJobs(){
+  const q=(document.getElementById('fSearch').value||'').toLowerCase();
+  const ms=+(document.getElementById('fScore').value||0);
+  const sf=document.getElementById('fStatus').value;
+  const af=document.getElementById('fApplyToday').value;
+  const a=getApplied();
+
+  let list=jobs.filter(j=>{
+    if(q&&![(j.company||''),(j.role||''),(j.why||''),(j.location||'')].join(' ').toLowerCase().includes(q))return false;
+    if(ms&&(+j.score||0)<ms)return false;
+    if(sf==='yes'&&!a[j.url])return false;
+    if(sf==='no'&&a[j.url])return false;
+    if(af==='yes'&&(j.applyToday||'').toUpperCase()!=='YES')return false;
+    return true;
+  });
+
+  list.sort((a,b)=>{
+    let va=a[sortCol],vb=b[sortCol];
+    if(sortCol==='score'||sortCol==='rank'){va=+va||0;vb=+vb||0;return sortDir*(vb-va);}
+    return sortDir*(String(va||'').localeCompare(String(vb||'')));
+  });
+
+  const tb=document.getElementById('jobBody');
+  const tbl=document.getElementById('jobTable');
+  const emp=document.getElementById('jobEmpty');
+  if(!list.length){tbl.style.display='none';emp.style.display='';return;}
+  tbl.style.display='';emp.style.display='none';
+
+  tb.innerHTML=list.map((j,i)=>{
+    const isApp=!!a[j.url];
+    const sn=+j.score||0;
+    const eu=encodeURIComponent(j.url||'');
+    return`<tr class="${isApp?'applied-row':''}">
+      <td style="color:#334155;font-size:.72rem">${j.rank||i+1}</td>
+      <td><div class="company">${j.company||''}</div></td>
+      <td><div class="roletxt">${j.role||''}</div><div class="why">${j.why||''}</div></td>
+      <td style="color:#64748b;font-size:.76rem;white-space:nowrap">${j.location||'—'}</td>
+      <td>${j.salary?`<span class="salary-y">${j.salary}</span>`:'<span class="salary-n">—</span>'}</td>
+      <td style="white-space:nowrap;color:#64748b;font-size:.76rem">${j.posted||'—'}</td>
+      <td><span class="score ${sc(sn)}">${sn}</span></td>
+      <td>${(j.applyToday||'').toUpperCase()==='YES'?'<span class="tag-y">YES</span>':'<span class="tag-n">no</span>'}</td>
+      <td><button class="abtn ${isApp?'abtn-done':'abtn-go'}" onclick="toggleApplied(decodeURIComponent('${eu}'))">${isApp?'✓ Applied':'Mark Applied'}</button></td>
+      <td>${j.url?`<a class="lbtn" href="${j.url}" target="_blank" onclick="autoApply('${eu}')">View →</a>`:'—'}</td>
+    </tr>`;
+  }).join('');
+  updateStats();
+}
+
+function autoApply(eu){
+  const url=decodeURIComponent(eu);
+  const a=getApplied();
+  if(!a[url]){a[url]=new Date().toISOString();saveApplied(a);}
+  setTimeout(refresh,400);
+}
+
+// ── Applied tab ───────────────────────────────────────────────────────
+function renderApplied(){
+  const a=getApplied();
+  const list=jobs.filter(j=>a[j.url]);
+  const el=document.getElementById('appBody');
+  const emp=document.getElementById('appEmpty');
+  if(!list.length){el.innerHTML='';emp.style.display='';return;}
+  emp.style.display='none';
+  el.innerHTML=list.map(j=>{
+    const sn=+j.score||0;
+    const when=a[j.url]?new Date(a[j.url]).toLocaleString():'—';
+    return`<div class="acard">
+      <span class="score ${sc(sn)}">${sn}</span>
+      <div class="acard-info">
+        <div class="acard-company">${j.company||''}</div>
+        <div class="acard-role">${j.role||''} · ${j.location||''}</div>
+        <div class="acard-when">Applied: ${when}</div>
+      </div>
+      ${j.url?`<a class="lbtn" href="${j.url}" target="_blank">View →</a>`:''}
+      <button class="abtn" style="background:#334155;color:#f87171;font-size:.7rem;margin-left:6px" onclick="toggleApplied('${encodeURIComponent(j.url||'')}')">✕</button>
+    </div>`;
+  }).join('');
+}
+
+// ── Network tab ───────────────────────────────────────────────────────
+function renderNetwork(){
+  const q=(document.getElementById('fNetwork')?.value||'').toLowerCase();
+  const list=network.filter(c=>!q||[(c.name||''),(c.company||''),(c.title||'')].join(' ').toLowerCase().includes(q));
+  const el=document.getElementById('netBody');
+  document.getElementById('netLoad').style.display='none';
+  if(!list.length){el.innerHTML='<div class="empty">Network contacts will appear here after the next nightly scrape.<br>They show product leaders at companies actively hiring VP/CPO roles.</div>';return;}
+  el.innerHTML=list.map(c=>{
+    const ini=(c.name||'?').split(' ').map(w=>w[0]||'').join('').slice(0,2).toUpperCase();
+    return`<div class="ncard">
+      <div class="navatar">${ini}</div>
+      <div style="flex:1">
+        <div class="nname">${c.name||'Unknown'}</div>
+        <div class="ntitle">${c.title||''}</div>
+        <div class="ncompany">${c.company||''} · ${c.location||''}</div>
+      </div>
+      ${c.url?`<a class="lbtn" href="${c.url}" target="_blank">Profile →</a>`:''}
+    </div>`;
+  }).join('');
+}
+
+// ── Sort ──────────────────────────────────────────────────────────────
+function sort(col){
+  if(sortCol===col)sortDir*=-1;else{sortCol=col;sortDir=col==='rank'||col==='score'?-1:1;}
+  renderJobs();
+}
+
+// ── Refresh all ───────────────────────────────────────────────────────
+function refresh(){renderJobs();renderApplied();updateStats();}
+
+// ── Load data ─────────────────────────────────────────────────────────
+async function load(){
+  try{
+    const r=await fetch(JOBS_URL+'?t='+Date.now());
+    if(!r.ok)throw new Error('HTTP '+r.status);
+    const d=await r.json();
+    jobs=Array.isArray(d)?d:(d.jobs||[]);
+    const dt=Array.isArray(d)?'':( d.date||'');
+    document.getElementById('lastUpdated').textContent='Updated: '+(dt||new Date().toLocaleDateString());
+    document.getElementById('jobLoad').style.display='none';
+    refresh();
+  }catch(e){
+    document.getElementById('jobLoad').style.display='none';
+    document.getElementById('jobErr').innerHTML=`<div class="err">⚠ Could not load jobs. The nightly scraper may not have run yet, or there was a fetch error.<br><small>${e.message}</small><br><br>If this is your first visit, wait for tonight's scrape or trigger a manual run.</div>`;
+  }
+  try{
+    const r=await fetch(NET_URL+'?t='+Date.now());
+    if(r.ok){network=await r.json();document.getElementById('netLoad').style.display='none';}
+  }catch{}
+}
+
+load();
+// Refresh every 4 hours
+setInterval(load,4*60*60*1000);
+</script>
+</body>
+</html>
