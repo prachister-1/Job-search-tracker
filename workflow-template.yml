@@ -1,0 +1,86 @@
+name: Nightly LinkedIn Job Scraper
+
+on:
+  schedule:
+    # 06:00 UTC daily (07:00 BST / 08:00 CEST)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      debug:
+        description: 'Print extra debug output'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: python scripts/scraper.py
+
+      - name: Read summary
+        id: summary
+        run: |
+          if [ -f results/run_summary.txt ]; then
+            source results/run_summary.txt
+            echo "date=$DATE" >> $GITHUB_OUTPUT
+            echo "total=$TOTAL_SCRAPED" >> $GITHUB_OUTPUT
+            echo "filtered=$FILTERED" >> $GITHUB_OUTPUT
+            echo "top=$SCORED_8_PLUS" >> $GITHUB_OUTPUT
+          else
+            echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+            echo "total=0" >> $GITHUB_OUTPUT
+            echo "filtered=0" >> $GITHUB_OUTPUT
+            echo "top=0" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push results
+        run: |
+          git config user.email "prachi.garg81@gmail.com"
+          git config user.name "Job Scraper Bot"
+          git add results/
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily scrape ${{ steps.summary.outputs.date }}: ${{ steps.summary.outputs.filtered }} UK VP/CPO roles (${{ steps.summary.outputs.top }} scored 8+)"
+            git push origin HEAD
+          fi
+
+      - name: Print summary
+        run: |
+          echo "=================================="
+          echo "  RUN DATE:       ${{ steps.summary.outputs.date }}"
+          echo "  JOBS SCRAPED:   ${{ steps.summary.outputs.total }}"
+          echo "  FILTERED:       ${{ steps.summary.outputs.filtered }} VP/CPO level UK"
+          echo "  SCORED 8+:      ${{ steps.summary.outputs.top }}"
+          echo "=================================="
+          echo ""
+          echo "Results committed to: results/uk_jobs_${{ steps.summary.outputs.date }}.md"
+          echo "Stable link:          results/LATEST.md"
+          if [ -f results/uk_jobs_${{ steps.summary.outputs.date }}.md ]; then
+            echo ""
+            echo "--- TOP ROLES PREVIEW ---"
+            head -40 results/uk_jobs_${{ steps.summary.outputs.date }}.md
+          fi
