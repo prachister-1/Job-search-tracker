@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "generated": "2026-07-05T20:18:47Z",
-  "count": 44,
+  "generated": "2026-07-05T20:21:02Z",
+  "count": 56,
   "jobs": [
     {
       "id": "reed_57044196",
@@ -69,6 +69,19 @@
       "rank": 5
     },
     {
+      "id": "li_4313759238",
+      "role": "VP of Product",
+      "company": "Haut.AI",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/vp-of-product-at-haut-ai-4313759238",
+      "source": "LinkedIn",
+      "posted": "2026-06-30",
+      "score": 8,
+      "why": "VP Product level — direct match to current level; AI-led product strategy; GenAI & agentic automation",
+      "rank": 6
+    },
+    {
       "id": "li_4412050235",
       "role": "Director of Product Management",
       "company": "Sony Interactive Entertainment",
@@ -79,20 +92,59 @@
       "posted": "2026-07-01",
       "score": 8,
       "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "id": "li_4432712978",
+      "role": "Senior Director of Product Management",
+      "company": "Sony Interactive Entertainment",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/senior-director-of-product-management-at-sony-interactive-entertainment-4432712978",
+      "source": "LinkedIn",
+      "posted": "2026-07-01",
+      "score": 8,
+      "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
+      "rank": 8
+    },
+    {
+      "id": "li_4413627747",
+      "role": "Vice President, Product Management, Stablecoins",
+      "company": "Mastercard",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/vice-president-product-management-stablecoins-at-mastercard-4413627747",
+      "source": "LinkedIn",
+      "posted": "2026-07-02",
+      "score": 8,
+      "why": "VP Product level — direct match to current level; target/known company: Mastercard",
+      "rank": 9
+    },
+    {
+      "id": "cwjobs_107484041",
+      "role": "Product Manager, Digital Experience Platforms and Products , Vice President",
+      "company": "",
+      "location": "London",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/manager-digital-experience/state-street-corporation-job107484041",
+      "source": "CWJobs",
+      "posted": "2026-07-05",
+      "score": 8,
+      "why": "VP Product level — direct match to current level; Platform product leadership",
+      "rank": 10
     },
     {
       "id": "totaljobs_107438122",
       "role": "Head of Product Propositions - B2C (Retail)",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "South East",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/head-of-product-and-proposition/the-collinson-group-job107438122",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 8,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 7
+      "rank": 11
     },
     {
       "id": "li_4434464266",
@@ -105,7 +157,7 @@
       "posted": "2026-06-29",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 8
+      "rank": 12
     },
     {
       "id": "li_4424539045",
@@ -118,7 +170,7 @@
       "posted": "2026-06-29",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 9
+      "rank": 13
     },
     {
       "id": "li_4431933725",
@@ -131,33 +183,20 @@
       "posted": "2026-06-30",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 10
+      "rank": 14
     },
     {
-      "id": "li_4418019237",
-      "role": "Credit Vice President - Securitized Products",
-      "company": "JPMorganChase",
-      "location": "Greater London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/credit-vice-president-securitized-products-at-jpmorganchase-4418019237",
-      "source": "LinkedIn",
-      "posted": "2026-06-30",
-      "score": 7,
-      "why": "VP Product level — direct match to current level",
-      "rank": 11
-    },
-    {
-      "id": "li_4425276976",
-      "role": "Vice President, Securitised Products - Origination & Structuring",
-      "company": "MUFG",
+      "id": "li_4425670140",
+      "role": "Vice President, Product Management",
+      "company": "BNY",
       "location": "London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/vice-president-securitised-products-origination-structuring-at-mufg-4425276976",
+      "url": "https://uk.linkedin.com/jobs/view/vice-president-product-management-at-bny-4425670140",
       "source": "LinkedIn",
       "posted": "2026-06-30",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 12
+      "rank": 15
     },
     {
       "id": "li_4431925483",
@@ -170,7 +209,7 @@
       "posted": "2026-06-30",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 13
+      "rank": 16
     },
     {
       "id": "li_4431961156",
@@ -183,33 +222,46 @@
       "posted": "2026-06-30",
       "score": 7,
       "why": "Head of Product level; Acquisition/retention/monetisation specialist",
-      "rank": 14
+      "rank": 17
     },
     {
-      "id": "li_4375183048",
-      "role": "Marketing Website Product Manager - Vice President",
-      "company": "JPMorganChase",
-      "location": "Greater London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/marketing-website-product-manager-vice-president-at-jpmorganchase-4375183048",
-      "source": "LinkedIn",
-      "posted": "2026-06-30",
-      "score": 7,
-      "why": "VP Product level — direct match to current level",
-      "rank": 15
-    },
-    {
-      "id": "li_4436710641",
-      "role": "Alpha Complex Instruments Product Lead, Vice President",
-      "company": "State Street",
+      "id": "li_4426575576",
+      "role": "Senior Vice President, POM Product Management",
+      "company": "BNY",
       "location": "London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/alpha-complex-instruments-product-lead-vice-president-at-state-street-4436710641",
+      "url": "https://uk.linkedin.com/jobs/view/senior-vice-president-pom-product-management-at-bny-4426575576",
       "source": "LinkedIn",
-      "posted": "2026-07-03",
+      "posted": "2026-07-01",
+      "score": 7,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 18
+    },
+    {
+      "id": "li_4426588455",
+      "role": "Vice President, POM Product Management",
+      "company": "BNY",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/vice-president-pom-product-management-at-bny-4426588455",
+      "source": "LinkedIn",
+      "posted": "2026-07-01",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 16
+      "rank": 19
+    },
+    {
+      "id": "li_4436173505",
+      "role": "Product Director (Fiat/Payments)",
+      "company": "KAST",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/product-director-fiat-payments-at-kast-4436173505",
+      "source": "LinkedIn",
+      "posted": "2026-07-02",
+      "score": 7,
+      "why": "Director level (slightly below target); Planet payments platform; embedded finance",
+      "rank": 20
     },
     {
       "id": "li_4436747918",
@@ -222,7 +274,7 @@
       "posted": "2026-07-03",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 17
+      "rank": 21
     },
     {
       "id": "li_4406499702",
@@ -235,33 +287,59 @@
       "posted": "2026-07-04",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 18
+      "rank": 22
     },
     {
-      "id": "cwjobs_107484041",
-      "role": "Product Manager, Digital Experience Platforms and Products , Vice President",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
-      "url": "https://www.totaljobs.com/job/manager-digital-experience/state-street-corporation-job107484041",
+      "id": "cwjobs_107602581",
+      "role": "Vice President, Product Management, Stablecoins",
+      "company": "",
+      "location": "London",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/vice-president-of-product-management/mastercard-job107602581",
       "source": "CWJobs",
       "posted": "2026-07-05",
       "score": 7,
-      "why": "VP Product level — direct match to current level; Platform product leadership",
-      "rank": 19
+      "why": "VP Product level — direct match to current level",
+      "rank": 23
+    },
+    {
+      "id": "cwjobs_107412670",
+      "role": "Alpha Digital Collateral Management Product Lead - Vice President",
+      "company": "",
+      "location": "London",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/digital-lead/state-street-corporation-job107412670",
+      "source": "CWJobs",
+      "posted": "2026-07-05",
+      "score": 7,
+      "why": "VP Product level — direct match to current level",
+      "rank": 24
+    },
+    {
+      "id": "cwjobs_107639728",
+      "role": "Alpha Complex Instruments Product Lead, Vice President",
+      "company": "",
+      "location": "London",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/product-lead/state-street-corporation-job107639728",
+      "source": "CWJobs",
+      "posted": "2026-07-05",
+      "score": 7,
+      "why": "VP Product level — direct match to current level",
+      "rank": 25
     },
     {
       "id": "totaljobs_107579399",
       "role": "Head of Product - Dairy",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Up to £90,000 a year",
+      "company": "",
+      "location": "South West",
+      "salary": "Up to £90,000 a year",
       "url": "https://www.totaljobs.com/job/head-of-product/yeo-valley-farms-production-ltd-job107579399",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 7,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 20
+      "rank": 26
     },
     {
       "id": "reed_57007589",
@@ -274,7 +352,7 @@
       "posted": "2026-06-10",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 21
+      "rank": 27
     },
     {
       "id": "reed_57009876",
@@ -287,7 +365,7 @@
       "posted": "2026-06-11",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 22
+      "rank": 28
     },
     {
       "id": "reed_57035757",
@@ -300,7 +378,7 @@
       "posted": "2026-06-18",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 23
+      "rank": 29
     },
     {
       "id": "reed_57055915",
@@ -313,20 +391,46 @@
       "posted": "2026-06-24",
       "score": 6,
       "why": "Head of Product level; Planet payments platform; embedded finance",
-      "rank": 24
+      "rank": 30
     },
     {
-      "id": "li_4435393286",
-      "role": "Head of Product",
-      "company": "ADHD Simple",
-      "location": "London Area, United Kingdom",
+      "id": "li_4424416962",
+      "role": "Group Head of Product and Technology",
+      "company": "Nord Anglia Education",
+      "location": "London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-adhd-simple-4435393286",
+      "url": "https://uk.linkedin.com/jobs/view/group-head-of-product-and-technology-at-nord-anglia-education-4424416962",
+      "source": "LinkedIn",
+      "posted": "2026-06-29",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 31
+    },
+    {
+      "id": "li_4404260133",
+      "role": "Vice President, Product Owner",
+      "company": "hackajob",
+      "location": "Manchester, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/vice-president-product-owner-at-hackajob-4404260133",
+      "source": "LinkedIn",
+      "posted": "2026-07-01",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 32
+    },
+    {
+      "id": "li_4416670035",
+      "role": "Head of Product - Equities",
+      "company": "Aon",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-equities-at-aon-4416670035",
       "source": "LinkedIn",
       "posted": "2026-07-01",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 25
+      "rank": 33
     },
     {
       "id": "li_4435814778",
@@ -339,20 +443,7 @@
       "posted": "2026-07-01",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 26
-    },
-    {
-      "id": "li_4432795783",
-      "role": "Head of Product, Business",
-      "company": "InvestEngine",
-      "location": "London Area, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-business-at-investengine-4432795783",
-      "source": "LinkedIn",
-      "posted": "2026-07-02",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 27
+      "rank": 34
     },
     {
       "id": "li_4436339933",
@@ -365,7 +456,7 @@
       "posted": "2026-07-02",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 28
+      "rank": 35
     },
     {
       "id": "li_4436331361",
@@ -378,20 +469,72 @@
       "posted": "2026-07-02",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 29
+      "rank": 36
     },
     {
-      "id": "li_4435425899",
-      "role": "Head of Product",
-      "company": "Verda",
+      "id": "li_4406556486",
+      "role": "Product Director - Onboarding Experience",
+      "company": "Wise",
       "location": "London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-verda-4435425899",
+      "url": "https://uk.linkedin.com/jobs/view/product-director-onboarding-experience-at-wise-4406556486",
+      "source": "LinkedIn",
+      "posted": "2026-07-02",
+      "score": 6,
+      "why": "Director level (slightly below target); target/known company: Wise",
+      "rank": 37
+    },
+    {
+      "id": "li_4432795783",
+      "role": "Head of Product, Business",
+      "company": "InvestEngine",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-business-at-investengine-4432795783",
+      "source": "LinkedIn",
+      "posted": "2026-07-02",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 38
+    },
+    {
+      "id": "li_4296081636",
+      "role": "Head of Product (Fraud)",
+      "company": "Revolut",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-fraud-at-revolut-4296081636",
+      "source": "LinkedIn",
+      "posted": "2026-07-03",
+      "score": 6,
+      "why": "Head of Product level; target/known company: Revolut",
+      "rank": 39
+    },
+    {
+      "id": "li_4436746279",
+      "role": "Head Of Product/ Product Director - Luxury Womenswear Lifestyle Brand",
+      "company": "Fella and Jones",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-product-director-luxury-womenswear-lifestyle-brand-at-fella-and-jones-4436746279",
       "source": "LinkedIn",
       "posted": "2026-07-03",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 30
+      "rank": 40
+    },
+    {
+      "id": "li_4436491911",
+      "role": "Head of Product Development",
+      "company": "DeMellier",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-development-at-demellier-4436491911",
+      "source": "LinkedIn",
+      "posted": "2026-07-03",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 41
     },
     {
       "id": "li_4433176466",
@@ -404,176 +547,189 @@
       "posted": "2026-07-03",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 31
+      "rank": 42
     },
     {
       "id": "totaljobs_107591979",
       "role": "Vice President, POM Product Owner",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "Manchester, Greater Manchester",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/product-owner/the-bank-of-new-york-mellon-job107591979",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 32
+      "rank": 43
     },
     {
       "id": "totaljobs_107551705",
       "role": "Vice President, Product Owner",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "Manchester, Greater Manchester",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/product-owner/the-bank-of-new-york-mellon-job107551705",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 33
+      "rank": 44
     },
     {
       "id": "totaljobs_107551727",
       "role": "Senior Vice President, Product Owner (Global Collateral)",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "South East",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/senior-vice-president-product/the-bank-of-new-york-mellon-job107551727",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 34
+      "rank": 45
     },
     {
       "id": "totaljobs_107551723",
       "role": "Senior Vice President POM Product Manager Middle East",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "South East",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/senior-vice-president-product/the-bank-of-new-york-mellon-job107551723",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 35
+      "rank": 46
     },
     {
       "id": "totaljobs_107413851",
       "role": "Senior Vice President, Product Design",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "South East",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/senior-vice-president-product/the-bank-of-new-york-mellon-job107413851",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 36
+      "rank": 47
     },
     {
       "id": "totaljobs_107615227",
       "role": "Vice President, Production Services Application Support",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "Spring Gardens, Manchester (M2), M2 4WU",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/vice-president-production-services-application-support/bny-job107615227",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 37
+      "rank": 48
     },
     {
       "id": "totaljobs_107615226",
       "role": "Senior Vice President, DevOps Production Services",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "Spring Gardens, Manchester (M2), M2 4WU",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/senior-vice-president-devops-production-services/bny-job107615226",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 38
-    },
-    {
-      "id": "cwjobs_107602581",
-      "role": "Vice President, Product Management, Stablecoins",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
-      "url": "https://www.totaljobs.com/job/vice-president-of-product-management/mastercard-job107602581",
-      "source": "CWJobs",
-      "posted": "2026-07-05",
-      "score": 6,
-      "why": "VP Product level — direct match to current level",
-      "rank": 39
-    },
-    {
-      "id": "cwjobs_107412670",
-      "role": "Alpha Digital Collateral Management Product Lead - Vice President",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
-      "url": "https://www.totaljobs.com/job/digital-lead/state-street-corporation-job107412670",
-      "source": "CWJobs",
-      "posted": "2026-07-05",
-      "score": 6,
-      "why": "VP Product level — direct match to current level",
-      "rank": 40
-    },
-    {
-      "id": "cwjobs_107639728",
-      "role": "Alpha Complex Instruments Product Lead, Vice President",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
-      "url": "https://www.totaljobs.com/job/product-lead/state-street-corporation-job107639728",
-      "source": "CWJobs",
-      "posted": "2026-07-05",
-      "score": 6,
-      "why": "VP Product level — direct match to current level",
-      "rank": 41
+      "rank": 49
     },
     {
       "id": "totaljobs_107589562",
       "role": "SRO Land & CPO lead",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Unspecified",
+      "company": "",
+      "location": "Exeter (EX2), EX2 7HR",
+      "salary": "Unspecified",
       "url": "https://www.totaljobs.com/job/cpo/south-west-water-job107589562",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 42
+      "rank": 50
     },
     {
       "id": "totaljobs_107506118",
       "role": "Chief Product Officer",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "South East",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/chief-product-officer/house-of-cb-job107506118",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 43
+      "rank": 51
+    },
+    {
+      "id": "cwjobs_107483931",
+      "role": "Director of Product - Data Platform and Decision Tooling",
+      "company": "",
+      "location": "London",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/director-of-product-data-platform-and-decision-tooling/skyscanner-job107483931",
+      "source": "CWJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "Director level (slightly below target); Platform product leadership",
+      "rank": 52
+    },
+    {
+      "id": "totaljobs_107622263",
+      "role": "Head of Product - Life Sales 12-month FTC",
+      "company": "",
+      "location": "Charing Cross, Central London (WC2), WC2R",
+      "salary": "£Competitive + Bonus + Benefits",
+      "url": "https://www.totaljobs.com/job/head-of-product/vitality-corporate-services-limited-job107622263",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 53
+    },
+    {
+      "id": "totaljobs_107631313",
+      "role": "Head of Product Development",
+      "company": "",
+      "location": "West London (W6), W6",
+      "salary": "Unspecified",
+      "url": "https://www.totaljobs.com/job/head-of-product-development/demellier-job107631313",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 54
+    },
+    {
+      "id": "totaljobs_107641908",
+      "role": "Head of Product, Regulatory Finance",
+      "company": "",
+      "location": "London",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/head-of-product-regulatory-finance/deliveroo-job107641908",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 55
     },
     {
       "id": "totaljobs_107530348",
       "role": "Head of Product - Platform",
-      "company": "<path fill=\"currentColor\" d=\"M3.7565 16.5833C3.38139 16.5833 3.06432 16.4538 2.80529 16.1947C2.54626 15.9357 2.41675 15.6187 2.41675 15.2435V6.75642C2.41675 6.38131 2.54626 6.06424 2.80529 5.80521C3.06432 5.54618 3.38139 5.41667 3.7565 5.41667H6.41675V4.16869C6.41675 3.79237 6.54626 3.47574 6.80529 3.21879C7.06432 2.96185 7.38139 2.83337 7.7565 2.83337H12.2436C12.6187 2.83337 12.9358 2.96289 13.1948 3.22192C13.4539 3.48094 13.5834 3.79801 13.5834 4.1731V5.41667H16.2436C16.6187 5.41667 16.9358 5.54618 17.1948 5.80521C17.45",
-      "location": "<path fill=\"currentColor\" d=\"M9.99984 16.157C11.5885 14.7671 12.8257 13.4124 13.7114 12.0929C14.5971 10.7735 15.0399 9.60999 15.0399 8.6025C15.0399 7.13883 14.5642 5.92115 13.6128 4.94946C12.6614 3.97777 11.4571 3.49192 9.99984 3.49192C8.54258 3.49192 7.33825 3.97777 6.38686 4.94946C5.43547 5.92115 4.95978 7.13883 4.95978 8.6025C4.95978 9.60999 5.40262 10.7735 6.2883 12.0929C7.17399 13.4124 8.41117 14.7671 9.99984 16.157ZM9.99984 17.2002C9.85134 17.2002 9.71326 17.1757 9.58559 17.1265C9.45792 17.0774 9.32838 17.001 9.19697 16.8974C8.79634 16.5555 8.29448 16.0889 7.69138 15.",
-      "salary": ">Competitive",
+      "company": "",
+      "location": "South East",
+      "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/head-of-product-platform/ensek-ltd-job107530348",
       "source": "TotalJobs",
       "posted": "2026-07-05",
       "score": 6,
       "why": "Head of Product level; Platform product leadership",
-      "rank": 44
+      "rank": 56
     }
   ]
 }
