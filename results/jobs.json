@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "generated": "2026-07-05T20:12:02Z",
-  "count": 33,
+  "generated": "2026-07-05T20:17:16Z",
+  "count": 46,
   "jobs": [
     {
       "id": "reed_57044196",
@@ -95,16 +95,16 @@
       "rank": 7
     },
     {
-      "id": "li_4413627747",
-      "role": "Vice President, Product Management, Stablecoins",
-      "company": "Mastercard",
-      "location": "London Area, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/vice-president-product-management-stablecoins-at-mastercard-4413627747",
-      "source": "LinkedIn",
-      "posted": "2026-07-02",
+      "id": "totaljobs_107438122",
+      "role": "Head of Product Propositions - B2C (Retail)",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/head-of-product-and-proposition/the-collinson-group-job107438122",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
       "score": 8,
-      "why": "VP Product level — direct match to current level; target/known company: Mastercard",
+      "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
       "rank": 8
     },
     {
@@ -251,6 +251,32 @@
       "rank": 19
     },
     {
+      "id": "cwjobs_107484041",
+      "role": "Product Manager, Digital Experience Platforms and Products , Vice President",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/manager-digital-experience/state-street-corporation-job107484041",
+      "source": "CWJobs",
+      "posted": "2026-07-05",
+      "score": 7,
+      "why": "VP Product level — direct match to current level; Platform product leadership",
+      "rank": 20
+    },
+    {
+      "id": "totaljobs_107579399",
+      "role": "Head of Product - Dairy",
+      "company": ">",
+      "location": ">",
+      "salary": ">Up to £90,000 a year",
+      "url": "https://www.totaljobs.com/job/head-of-product/yeo-valley-farms-production-ltd-job107579399",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 7,
+      "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
+      "rank": 21
+    },
+    {
       "id": "reed_57007589",
       "role": "Head of Product Design",
       "company": "Ripple Recruitment Ltd",
@@ -261,7 +287,7 @@
       "posted": "2026-06-10",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 20
+      "rank": 22
     },
     {
       "id": "reed_57009876",
@@ -274,7 +300,7 @@
       "posted": "2026-06-11",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 21
+      "rank": 23
     },
     {
       "id": "reed_57035757",
@@ -287,7 +313,7 @@
       "posted": "2026-06-18",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 22
+      "rank": 24
     },
     {
       "id": "reed_57055915",
@@ -300,20 +326,7 @@
       "posted": "2026-06-24",
       "score": 6,
       "why": "Head of Product level; Planet payments platform; embedded finance",
-      "rank": 23
-    },
-    {
-      "id": "li_4416670035",
-      "role": "Head of Product - Equities",
-      "company": "Aon",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-equities-at-aon-4416670035",
-      "source": "LinkedIn",
-      "posted": "2026-07-01",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 24
+      "rank": 25
     },
     {
       "id": "li_4435393286",
@@ -326,7 +339,20 @@
       "posted": "2026-07-01",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 25
+      "rank": 26
+    },
+    {
+      "id": "li_4435814778",
+      "role": "Head of Product Development & Laboratory - FoodTech",
+      "company": "Kinora Group",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-development-laboratory-foodtech-at-kinora-group-4435814778",
+      "source": "LinkedIn",
+      "posted": "2026-07-01",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 27
     },
     {
       "id": "li_4432795783",
@@ -339,20 +365,7 @@
       "posted": "2026-07-02",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 26
-    },
-    {
-      "id": "li_4436339933",
-      "role": "Head of Product",
-      "company": "Royal Botanic Gardens, Kew",
-      "location": "London Area, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-royal-botanic-gardens-kew-4436339933",
-      "source": "LinkedIn",
-      "posted": "2026-07-02",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 27
+      "rank": 28
     },
     {
       "id": "li_4436331361",
@@ -365,7 +378,7 @@
       "posted": "2026-07-02",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 28
+      "rank": 29
     },
     {
       "id": "li_4406556486",
@@ -378,7 +391,7 @@
       "posted": "2026-07-02",
       "score": 6,
       "why": "Director level (slightly below target); target/known company: Wise",
-      "rank": 29
+      "rank": 30
     },
     {
       "id": "li_4435425899",
@@ -391,7 +404,7 @@
       "posted": "2026-07-03",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 30
+      "rank": 31
     },
     {
       "id": "li_4433176466",
@@ -404,19 +417,6 @@
       "posted": "2026-07-03",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 31
-    },
-    {
-      "id": "li_4296081636",
-      "role": "Head of Product (Fraud)",
-      "company": "Revolut",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-fraud-at-revolut-4296081636",
-      "source": "LinkedIn",
-      "posted": "2026-07-03",
-      "score": 6,
-      "why": "Head of Product level; target/known company: Revolut",
       "rank": 32
     },
     {
@@ -431,6 +431,175 @@
       "score": 6,
       "why": "Head of Product level",
       "rank": 33
+    },
+    {
+      "id": "totaljobs_107591979",
+      "role": "Vice President, POM Product Owner",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/product-owner/the-bank-of-new-york-mellon-job107591979",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 34
+    },
+    {
+      "id": "totaljobs_107551705",
+      "role": "Vice President, Product Owner",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/product-owner/the-bank-of-new-york-mellon-job107551705",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 35
+    },
+    {
+      "id": "totaljobs_107551727",
+      "role": "Senior Vice President, Product Owner (Global Collateral)",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/senior-vice-president-product/the-bank-of-new-york-mellon-job107551727",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 36
+    },
+    {
+      "id": "totaljobs_107551723",
+      "role": "Senior Vice President POM Product Manager Middle East",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/senior-vice-president-product/the-bank-of-new-york-mellon-job107551723",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 37
+    },
+    {
+      "id": "totaljobs_107413851",
+      "role": "Senior Vice President, Product Design",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/senior-vice-president-product/the-bank-of-new-york-mellon-job107413851",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 38
+    },
+    {
+      "id": "totaljobs_107615227",
+      "role": "Vice President, Production Services Application Support",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/vice-president-production-services-application-support/bny-job107615227",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 39
+    },
+    {
+      "id": "totaljobs_107615226",
+      "role": "Senior Vice President, DevOps Production Services",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/senior-vice-president-devops-production-services/bny-job107615226",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 40
+    },
+    {
+      "id": "cwjobs_107602581",
+      "role": "Vice President, Product Management, Stablecoins",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/vice-president-of-product-management/mastercard-job107602581",
+      "source": "CWJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 41
+    },
+    {
+      "id": "cwjobs_107412670",
+      "role": "Alpha Digital Collateral Management Product Lead - Vice President",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/digital-lead/state-street-corporation-job107412670",
+      "source": "CWJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 42
+    },
+    {
+      "id": "cwjobs_107639728",
+      "role": "Alpha Complex Instruments Product Lead, Vice President",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/product-lead/state-street-corporation-job107639728",
+      "source": "CWJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 43
+    },
+    {
+      "id": "totaljobs_107589562",
+      "role": "SRO Land & CPO lead",
+      "company": ">",
+      "location": ">",
+      "salary": ">Unspecified",
+      "url": "https://www.totaljobs.com/job/cpo/south-west-water-job107589562",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 44
+    },
+    {
+      "id": "totaljobs_107506118",
+      "role": "Chief Product Officer",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/chief-product-officer/house-of-cb-job107506118",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 45
+    },
+    {
+      "id": "totaljobs_107530348",
+      "role": "Head of Product - Platform",
+      "company": ">",
+      "location": ">",
+      "salary": ">Competitive",
+      "url": "https://www.totaljobs.com/job/head-of-product-platform/ensek-ltd-job107530348",
+      "source": "TotalJobs",
+      "posted": "2026-07-05",
+      "score": 6,
+      "why": "Head of Product level; Platform product leadership",
+      "rank": 46
     }
   ]
 }
