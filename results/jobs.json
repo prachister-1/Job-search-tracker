@@ -1,21 +1,8 @@
 {
-  "date": "2026-08-25",
-  "generated": "2026-08-25T21:07:33Z",
-  "count": 40,
+  "date": "2026-08-26",
+  "generated": "2026-08-26T22:19:13Z",
+  "count": 44,
   "jobs": [
-    {
-      "id": "reed_57122307",
-      "role": "Head of Product / Product Lead - Fintech / Payments - In person",
-      "company": "Sanderson ",
-      "location": "London",
-      "salary": "£95,000 – £105,000",
-      "url": "https://www.reed.co.uk/jobs/head-of-product-product-lead-fintech-payments-in-person/57122307",
-      "source": "Reed",
-      "posted": "2026-07-14",
-      "score": 9,
-      "why": "Head of Product level; Payments & embedded finance at Planet/Collinson",
-      "rank": 1
-    },
     {
       "id": "li_4458580275",
       "role": "Digital Markets - AI Acceleration Product Manager - Vice President",
@@ -27,7 +14,7 @@
       "posted": "2026-08-25",
       "score": 9,
       "why": "VP Product level — direct match to current level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 2
+      "rank": 1
     },
     {
       "id": "cwjobs_107835023",
@@ -37,10 +24,10 @@
       "salary": "£95000 - £105000 per annum + Benefits",
       "url": "https://www.totaljobs.com/job/head-of-payments/sanderson-recruitment-job107835023",
       "source": "CWJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 9,
       "why": "Head of Product level; Payments & embedded finance at Planet/Collinson",
-      "rank": 3
+      "rank": 2
     },
     {
       "id": "li_4447063800",
@@ -53,7 +40,7 @@
       "posted": "2026-08-21",
       "score": 8,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 4
+      "rank": 3
     },
     {
       "id": "li_4431695679",
@@ -66,7 +53,7 @@
       "posted": "2026-08-25",
       "score": 8,
       "why": "CPO/SVP level — her stated next step; AI-led product strategy; GenAI & agentic automation",
-      "rank": 5
+      "rank": 4
     },
     {
       "id": "li_4390922646",
@@ -79,7 +66,7 @@
       "posted": "2026-08-20",
       "score": 7,
       "why": "Head of Product level; Ensek (Centrica) energy platform; Look After My Bills",
-      "rank": 6
+      "rank": 5
     },
     {
       "id": "li_4457302620",
@@ -92,7 +79,33 @@
       "posted": "2026-08-21",
       "score": 7,
       "why": "VP Product level — direct match to current level",
+      "rank": 6
+    },
+    {
+      "id": "li_4430956045",
+      "role": "Director of Product Management, Forward Deployed & Strategy",
+      "company": "Scale AI",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/director-of-product-management-forward-deployed-strategy-at-scale-ai-4430956045",
+      "source": "LinkedIn",
+      "posted": "2026-08-21",
+      "score": 7,
+      "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
       "rank": 7
+    },
+    {
+      "id": "li_4387132815",
+      "role": "Senior Product Director, Business Banking",
+      "company": "Monzo",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/senior-product-director-business-banking-at-monzo-4387132815",
+      "source": "LinkedIn",
+      "posted": "2026-08-21",
+      "score": 7,
+      "why": "Director level (slightly below target); Fintech-adjacent payments experience; target/known company: Monzo",
+      "rank": 8
     },
     {
       "id": "li_4420442339",
@@ -105,20 +118,46 @@
       "posted": "2026-08-23",
       "score": 7,
       "why": "Director level (slightly below target); Amazon & Skyscanner marketplace experience",
-      "rank": 8
+      "rank": 9
     },
     {
-      "id": "li_4456900618",
-      "role": "Oracle GL Product Owner VP",
-      "company": "Hunter Bond",
-      "location": "London Area, United Kingdom",
+      "id": "li_4413107628",
+      "role": "Product Director (Loyalty Sector)",
+      "company": "Comarch",
+      "location": "London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/oracle-gl-product-owner-vp-at-hunter-bond-4456900618",
+      "url": "https://uk.linkedin.com/jobs/view/product-director-loyalty-sector-at-comarch-4413107628",
       "source": "LinkedIn",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
+      "score": 7,
+      "why": "Director level (slightly below target); Priority Pass loyalty/membership — £70M+ revenue",
+      "rank": 10
+    },
+    {
+      "id": "li_4449130492",
+      "role": "GBM - Private Dept-London-Vice President-Product Management",
+      "company": "Goldman Sachs",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/gbm-private-dept-london-vice-president-product-management-at-goldman-sachs-4449130492",
+      "source": "LinkedIn",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 9
+      "rank": 11
+    },
+    {
+      "id": "li_4413587791",
+      "role": "Director of Product Management - Data Streaming",
+      "company": "HiveMQ",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/director-of-product-management-data-streaming-at-hivemq-4413587791",
+      "source": "LinkedIn",
+      "posted": "2026-08-26",
+      "score": 7,
+      "why": "Director level (slightly below target); Amazon Prime Video — 180+ countries",
+      "rank": 12
     },
     {
       "id": "totaljobs_107844922",
@@ -128,10 +167,10 @@
       "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/product-strategist/blackrock-job107844922",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 10
+      "rank": 13
     },
     {
       "id": "totaljobs_107886189",
@@ -141,23 +180,10 @@
       "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/product-owner/state-street-corporation-job107886189",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 11
-    },
-    {
-      "id": "totaljobs_107889486",
-      "role": "Payments-Digital and Design-FX Product Manager-Vice President-LONDON",
-      "company": "Hackajob Ltd",
-      "location": "St James, South West London (SW1), SW1A",
-      "salary": "£150k - £210k per year",
-      "url": "https://www.totaljobs.com/job/payments-digital-and-design-fx-product-manager-vice-president-london/hackajob-ltd-job107889486",
-      "source": "TotalJobs",
-      "posted": "2026-08-25",
-      "score": 7,
-      "why": "VP Product level — direct match to current level; Planet payments platform; embedded finance",
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "totaljobs_107889988",
@@ -167,10 +193,23 @@
       "salary": "£120k - £180k per year",
       "url": "https://www.totaljobs.com/job/payments-digital-and-design-channels-market-expansion-product-manager-vice-president/hackajob-ltd-job107889988",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "VP Product level — direct match to current level; Planet payments platform; embedded finance",
-      "rank": 13
+      "rank": 15
+    },
+    {
+      "id": "totaljobs_107889486",
+      "role": "Payments-Digital and Design-FX Product Manager-Vice President-LONDON",
+      "company": "Hackajob Ltd",
+      "location": "St James, South West London (SW1), SW1A",
+      "salary": "£150k - £210k per year",
+      "url": "https://www.totaljobs.com/job/payments-digital-and-design-fx-product-manager-vice-president-london/hackajob-ltd-job107889486",
+      "source": "TotalJobs",
+      "posted": "2026-08-26",
+      "score": 7,
+      "why": "VP Product level — direct match to current level; Planet payments platform; embedded finance",
+      "rank": 16
     },
     {
       "id": "cwjobs_107889619",
@@ -180,10 +219,10 @@
       "salary": "£125k - £190k per year",
       "url": "https://www.totaljobs.com/job/payments-cross-currency-fx-payments-product-manager-emea-product-development-vice-president/hackajob-ltd-job107889619",
       "source": "CWJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "VP Product level — direct match to current level; Planet payments platform; embedded finance",
-      "rank": 14
+      "rank": 17
     },
     {
       "id": "totaljobs_107804965",
@@ -193,10 +232,10 @@
       "salary": "From £105,000 to £162,500 per annum",
       "url": "https://www.totaljobs.com/job/chief-product-officer/russell-reynolds-associates-job107804965",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 15
+      "rank": 18
     },
     {
       "id": "totaljobs_107850992",
@@ -206,23 +245,23 @@
       "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/head-of-product/revolut-job107850992",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "Head of Product level; target/known company: Revolut",
-      "rank": 16
+      "rank": 19
     },
     {
-      "id": "js_8E5B980B3A3A527C",
-      "role": "Lead Product Designer VP",
-      "company": "Robert Walters",
+      "id": "js_158790BA71DDC0C8",
+      "role": "Oracle GL Product Owner VP",
+      "company": "Hunter Bond",
       "location": "London, UK",
-      "salary": "",
-      "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/LEAD-PRODUCT-DESIGNER-VP-8E5B980B3A3A527C60/",
+      "salary": "Up to £130k + bonus + package",
+      "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/ORACLE-GL-PRODUCT-OWNER-VP-158790BA71DDC0C851/",
       "source": "JobServe",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 17
+      "rank": 20
     },
     {
       "id": "adz_5756245680",
@@ -232,10 +271,10 @@
       "salary": "",
       "url": "https://www.adzuna.co.uk/jobs/details/5756245680",
       "source": "Adzuna",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 18
+      "rank": 21
     },
     {
       "id": "adz_5727982895",
@@ -245,10 +284,10 @@
       "salary": "",
       "url": "https://www.adzuna.co.uk/jobs/details/5727982895",
       "source": "Adzuna",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 19
+      "rank": 22
     },
     {
       "id": "adz_5834871079",
@@ -258,10 +297,10 @@
       "salary": "",
       "url": "https://www.adzuna.co.uk/jobs/details/5834871079",
       "source": "Adzuna",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 20
+      "rank": 23
     },
     {
       "id": "adz_5851146212",
@@ -271,23 +310,23 @@
       "salary": "£100,000",
       "url": "https://www.adzuna.co.uk/jobs/details/5851146212",
       "source": "Adzuna",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 7,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 21
+      "rank": 24
     },
     {
-      "id": "adz_5832254693",
-      "role": "Head of Product (AI & Emerging Tech)",
-      "company": "of",
-      "location": "READING, UK",
+      "id": "li_4456394182",
+      "role": "Product Owner (Data Taxonomies) - Vice President",
+      "company": "JPMorganChase",
+      "location": "Bournemouth, England, United Kingdom",
       "salary": "",
-      "url": "https://www.adzuna.co.uk/jobs/details/5832254693",
-      "source": "Adzuna",
-      "posted": "2026-08-25",
-      "score": 7,
-      "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 22
+      "url": "https://uk.linkedin.com/jobs/view/product-owner-data-taxonomies-vice-president-at-jpmorganchase-4456394182",
+      "source": "LinkedIn",
+      "posted": "2026-08-19",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 25
     },
     {
       "id": "li_4454297972",
@@ -300,7 +339,7 @@
       "posted": "2026-08-21",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 23
+      "rank": 26
     },
     {
       "id": "li_4419869421",
@@ -313,7 +352,7 @@
       "posted": "2026-08-21",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 24
+      "rank": 27
     },
     {
       "id": "li_4454639861",
@@ -326,7 +365,7 @@
       "posted": "2026-08-21",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 25
+      "rank": 28
     },
     {
       "id": "li_4448334206",
@@ -339,7 +378,20 @@
       "posted": "2026-08-25",
       "score": 6,
       "why": "Director level (slightly below target); target/known company: Visa",
-      "rank": 26
+      "rank": 29
+    },
+    {
+      "id": "li_2",
+      "role": "Director, Product Management – Client Delivery platform – Automotive Planning Solutions",
+      "company": "Mobility Global",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/director-product-management-%E2%80%93-client-delivery-platform-%E2%80%93-automotive-planning-solutions-at-mobility-global-4437676029",
+      "source": "LinkedIn",
+      "posted": "2026-08-26",
+      "score": 6,
+      "why": "Director level (slightly below target); Platform product leadership",
+      "rank": 30
     },
     {
       "id": "totaljobs_107886586",
@@ -349,10 +401,10 @@
       "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/vice-president-product/harbourvest-partners-uk-ltd-job107886586",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 27
+      "rank": 31
     },
     {
       "id": "totaljobs_107814569",
@@ -362,23 +414,10 @@
       "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/product-owner/the-bank-of-new-york-mellon-job107814569",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 28
-    },
-    {
-      "id": "totaljobs_107774423",
-      "role": "Vice President, Product Owner",
-      "company": "The Bank of New York Mellon",
-      "location": "Manchester, Greater Manchester",
-      "salary": "Competitive",
-      "url": "https://www.totaljobs.com/job/product-owner/the-bank-of-new-york-mellon-job107774423",
-      "source": "TotalJobs",
-      "posted": "2026-08-25",
-      "score": 6,
-      "why": "VP Product level — direct match to current level",
-      "rank": 29
+      "rank": 32
     },
     {
       "id": "totaljobs_107774431",
@@ -388,10 +427,10 @@
       "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/senior-vice-president-product/the-bank-of-new-york-mellon-job107774431",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 30
+      "rank": 33
     },
     {
       "id": "totaljobs_107774426",
@@ -401,23 +440,23 @@
       "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/senior-vice-president-product/the-bank-of-new-york-mellon-job107774426",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 31
+      "rank": 34
     },
     {
-      "id": "cwjobs_107879944",
+      "id": "cwjobs_107900640",
       "role": "Oracle EPM Product Owner - VP Banking",
       "company": "Huxley Associates",
       "location": "City of London (EC1)",
       "salary": "£70000 - £150000 per annum",
-      "url": "https://www.totaljobs.com/job/product-owner/huxley-associates-job107879944",
+      "url": "https://www.totaljobs.com/job/oracle-epm-product-owner-vp-banking/huxley-associates-job107900640",
       "source": "CWJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "VP Product level — direct match to current level; Fintech-adjacent payments experience",
-      "rank": 32
+      "rank": 35
     },
     {
       "id": "totaljobs_107733957",
@@ -427,10 +466,10 @@
       "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/chief-product-officer/house-of-cb-job107733957",
       "source": "TotalJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 33
+      "rank": 36
     },
     {
       "id": "cwjobs_107850425",
@@ -440,10 +479,23 @@
       "salary": "Competitive",
       "url": "https://www.totaljobs.com/job/director-of-product-management/mastercard-job107850425",
       "source": "CWJobs",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "Director level (slightly below target); target/known company: Mastercard",
-      "rank": 34
+      "rank": 37
+    },
+    {
+      "id": "cwjobs_107898882",
+      "role": "Vice President, POM Technical Product Management",
+      "company": "The Bank of New York Mellon",
+      "location": "Manchester, Greater Manchester",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/vice-president-pom-technical-product-management/the-bank-of-new-york-mellon-job107898882",
+      "source": "CWJobs",
+      "posted": "2026-08-26",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 38
     },
     {
       "id": "js_7ACE60704E0EB832",
@@ -453,10 +505,10 @@
       "salary": "£110-130k salary + benefits package",
       "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/PRODUCT-DIRECTOR-B2B2C-7ACE60704E0EB83253/",
       "source": "JobServe",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "Director level (slightly below target); Consumer product background",
-      "rank": 35
+      "rank": 39
     },
     {
       "id": "adz_5725814203",
@@ -466,10 +518,10 @@
       "salary": "",
       "url": "https://www.adzuna.co.uk/jobs/details/5725814203",
       "source": "Adzuna",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 36
+      "rank": 40
     },
     {
       "id": "adz_5806146063",
@@ -479,10 +531,10 @@
       "salary": "",
       "url": "https://www.adzuna.co.uk/jobs/details/5806146063",
       "source": "Adzuna",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 37
+      "rank": 41
     },
     {
       "id": "adz_5835954841",
@@ -492,10 +544,10 @@
       "salary": "",
       "url": "https://www.adzuna.co.uk/jobs/details/5835954841",
       "source": "Adzuna",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 38
+      "rank": 42
     },
     {
       "id": "adz_5685271454",
@@ -505,10 +557,10 @@
       "salary": "",
       "url": "https://www.adzuna.co.uk/jobs/details/5685271454",
       "source": "Adzuna",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 39
+      "rank": 43
     },
     {
       "id": "adz_5852576428",
@@ -518,10 +570,10 @@
       "salary": "",
       "url": "https://www.adzuna.co.uk/jobs/details/5852576428",
       "source": "Adzuna",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 40
+      "rank": 44
     }
   ]
 }
