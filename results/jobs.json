@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-12",
-  "generated": "2026-09-12T22:47:42Z",
-  "count": 31,
+  "date": "2026-09-13",
+  "generated": "2026-09-13T23:38:38Z",
+  "count": 32,
   "jobs": [
     {
       "id": "li_4462929702",
@@ -121,19 +121,6 @@
       "rank": 9
     },
     {
-      "id": "li_4426949131",
-      "role": "Director of Product - Engagement and Retention",
-      "company": "Kambi",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/director-of-product-engagement-and-retention-at-kambi-4426949131",
-      "source": "LinkedIn",
-      "posted": "2026-09-06",
-      "score": 7,
-      "why": "Director level (slightly below target); Retention strategy at FutureLearn/Priority Pass",
-      "rank": 10
-    },
-    {
       "id": "li_4464436428",
       "role": "Data Product Manager - HR Data Products - Vice President",
       "company": "JPMorganChase",
@@ -144,6 +131,19 @@
       "posted": "2026-09-08",
       "score": 7,
       "why": "VP Product level — direct match to current level",
+      "rank": 10
+    },
+    {
+      "id": "li_4463554772",
+      "role": "Global Product Director - AI Innovation",
+      "company": "Boston Consulting Group (BCG)",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/global-product-director-ai-innovation-at-boston-consulting-group-bcg-4463554772",
+      "source": "LinkedIn",
+      "posted": "2026-09-08",
+      "score": 7,
+      "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
       "rank": 11
     },
     {
@@ -238,19 +238,6 @@
       "rank": 18
     },
     {
-      "id": "js_6AB92F2A12203EAF",
-      "role": "Oracle GL Product Owner VP",
-      "company": "Hunter Bond",
-      "location": "London, UK",
-      "salary": "Up to £130k + bonus + package",
-      "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/ORACLE-GL-PRODUCT-OWNER-VP-6AB92F2A12203EAFAA/",
-      "source": "JobServe",
-      "posted": "2026-09-12",
-      "score": 7,
-      "why": "VP Product level — direct match to current level",
-      "rank": 19
-    },
-    {
       "id": "jj_e06c16c1-a258-4f64-9632-5549524969dd",
       "role": "Director of Product Design at Replicant",
       "company": "Replicant",
@@ -261,7 +248,33 @@
       "posted": "2026-09-12",
       "score": 7,
       "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
+      "rank": 19
+    },
+    {
+      "id": "li_4420442339",
+      "role": "Director Product Management / Product Lead - Marketplace",
+      "company": "JD.COM",
+      "location": "Greater London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/director-product-management-product-lead-marketplace-at-jd-com-4420442339",
+      "source": "LinkedIn",
+      "posted": "2026-09-13",
+      "score": 7,
+      "why": "Director level (slightly below target); Amazon & Skyscanner marketplace experience",
       "rank": 20
+    },
+    {
+      "id": "js_6AB92F2A12203EAF",
+      "role": "Oracle GL Product Owner VP",
+      "company": "Hunter Bond",
+      "location": "London, UK",
+      "salary": "Up to £130k + bonus + package",
+      "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/ORACLE-GL-PRODUCT-OWNER-VP-6AB92F2A12203EAFAA/",
+      "source": "JobServe",
+      "posted": "2026-09-13",
+      "score": 7,
+      "why": "VP Product level — direct match to current level",
+      "rank": 21
     },
     {
       "id": "li_4451548232",
@@ -274,7 +287,7 @@
       "posted": "2026-09-07",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "li_4459507334",
@@ -287,19 +300,6 @@
       "posted": "2026-09-08",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 22
-    },
-    {
-      "id": "li_4446314251",
-      "role": "Product Director Experian Consumer Services",
-      "company": "Experian",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/product-director-experian-consumer-services-at-experian-4446314251",
-      "source": "LinkedIn",
-      "posted": "2026-09-08",
-      "score": 6,
-      "why": "Director level (slightly below target); Consumer platforms across all roles",
       "rank": 23
     },
     {
@@ -316,6 +316,19 @@
       "rank": 24
     },
     {
+      "id": "li_4446314251",
+      "role": "Product Director Experian Consumer Services",
+      "company": "Experian",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/product-director-experian-consumer-services-at-experian-4446314251",
+      "source": "LinkedIn",
+      "posted": "2026-09-08",
+      "score": 6,
+      "why": "Director level (slightly below target); Consumer platforms across all roles",
+      "rank": 25
+    },
+    {
       "id": "li_4465012844",
       "role": "Head of Product",
       "company": "Burns Sheehan",
@@ -326,7 +339,7 @@
       "posted": "2026-09-09",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 25
+      "rank": 26
     },
     {
       "id": "li_4456394182",
@@ -339,7 +352,7 @@
       "posted": "2026-09-10",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 26
+      "rank": 27
     },
     {
       "id": "li_4465872122",
@@ -352,7 +365,7 @@
       "posted": "2026-09-10",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 27
+      "rank": 28
     },
     {
       "id": "li_4454297972",
@@ -365,7 +378,7 @@
       "posted": "2026-09-11",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 28
+      "rank": 29
     },
     {
       "id": "li_4419869421",
@@ -378,7 +391,7 @@
       "posted": "2026-09-11",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 29
+      "rank": 30
     },
     {
       "id": "li_4464225552",
@@ -391,7 +404,7 @@
       "posted": "2026-09-11",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 30
+      "rank": 31
     },
     {
       "id": "js_7D793068E920EFB0",
@@ -401,10 +414,10 @@
       "salary": "£120k - £130k per annum",
       "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/HEAD-OF-PRODUCT-DESIGN-7D793068E920EFB02F/",
       "source": "JobServe",
-      "posted": "2026-09-12",
+      "posted": "2026-09-13",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 31
+      "rank": 32
     }
   ]
 }
