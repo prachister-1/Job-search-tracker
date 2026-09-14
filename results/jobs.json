@@ -1,21 +1,8 @@
 {
-  "date": "2026-09-13",
-  "generated": "2026-09-13T23:38:38Z",
+  "date": "2026-09-14",
+  "generated": "2026-09-14T23:22:58Z",
   "count": 32,
   "jobs": [
-    {
-      "id": "li_4462929702",
-      "role": "Chief Product Officer / Head of Product Payments",
-      "company": "Evolution Growth Partners",
-      "location": "London Area, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/chief-product-officer-head-of-product-payments-at-evolution-growth-partners-4462929702",
-      "source": "LinkedIn",
-      "posted": "2026-09-07",
-      "score": 10,
-      "why": "CPO/SVP level — her stated next step; Planet payments platform; embedded finance",
-      "rank": 1
-    },
     {
       "id": "li_2",
       "role": "Vice President & Associate, GPS Business Strategy, Product Platform Growth Lead",
@@ -27,7 +14,7 @@
       "posted": "2026-09-12",
       "score": 10,
       "why": "VP Product level — direct match to current level; Acquisition/retention/monetisation specialist",
-      "rank": 2
+      "rank": 1
     },
     {
       "id": "li_4455702222",
@@ -40,7 +27,7 @@
       "posted": "2026-09-08",
       "score": 9,
       "why": "VP Product level — direct match to current level; Planet payments platform; embedded finance",
-      "rank": 3
+      "rank": 2
     },
     {
       "id": "wwr_ofproductkoastai",
@@ -53,7 +40,7 @@
       "posted": "Wed, 09 Sep 2026",
       "score": 9,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 4
+      "rank": 3
     },
     {
       "id": "li_4462540083",
@@ -66,7 +53,7 @@
       "posted": "2026-09-08",
       "score": 8,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 5
+      "rank": 4
     },
     {
       "id": "reed_57329302",
@@ -79,7 +66,7 @@
       "posted": "2026-09-09",
       "score": 8,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 6
+      "rank": 5
     },
     {
       "id": "li_4465640732",
@@ -92,7 +79,7 @@
       "posted": "2026-09-10",
       "score": 8,
       "why": "VP Product level — direct match to current level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 7
+      "rank": 6
     },
     {
       "id": "li_4447063800",
@@ -105,7 +92,7 @@
       "posted": "2026-09-12",
       "score": 8,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 8
+      "rank": 7
     },
     {
       "id": "reed_57298364",
@@ -118,7 +105,7 @@
       "posted": "2026-09-01",
       "score": 7,
       "why": "Head of Product level; Payments & embedded finance at Planet/Collinson",
-      "rank": 9
+      "rank": 8
     },
     {
       "id": "li_4464436428",
@@ -131,7 +118,7 @@
       "posted": "2026-09-08",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 10
+      "rank": 9
     },
     {
       "id": "li_4463554772",
@@ -144,20 +131,7 @@
       "posted": "2026-09-08",
       "score": 7,
       "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 11
-    },
-    {
-      "id": "li_4455921675",
-      "role": "Vice President, Digital Assets Custody, Product Manager (Expansion)",
-      "company": "BNY",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/vice-president-digital-assets-custody-product-manager-expansion-at-bny-4455921675",
-      "source": "LinkedIn",
-      "posted": "2026-09-09",
-      "score": 7,
-      "why": "VP Product level — direct match to current level",
-      "rank": 12
+      "rank": 10
     },
     {
       "id": "li_4457302620",
@@ -170,7 +144,7 @@
       "posted": "2026-09-11",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 13
+      "rank": 11
     },
     {
       "id": "li_4464852238",
@@ -183,7 +157,7 @@
       "posted": "2026-09-11",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 14
+      "rank": 12
     },
     {
       "id": "li_4463964684",
@@ -196,7 +170,7 @@
       "posted": "2026-09-11",
       "score": 7,
       "why": "Head of Product level; Payments & embedded finance at Planet/Collinson",
-      "rank": 15
+      "rank": 13
     },
     {
       "id": "li_4464884969",
@@ -209,7 +183,20 @@
       "posted": "2026-09-11",
       "score": 7,
       "why": "Director level (slightly below target); Planet payments platform; embedded finance",
-      "rank": 16
+      "rank": 14
+    },
+    {
+      "id": "li_4387132815",
+      "role": "Senior Product Director, Business Banking",
+      "company": "Monzo",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/senior-product-director-business-banking-at-monzo-4387132815",
+      "source": "LinkedIn",
+      "posted": "2026-09-11",
+      "score": 7,
+      "why": "Director level (slightly below target); Fintech-adjacent payments experience; target/known company: Monzo",
+      "rank": 15
     },
     {
       "id": "li_4466704743",
@@ -222,7 +209,7 @@
       "posted": "2026-09-12",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 17
+      "rank": 16
     },
     {
       "id": "li_4430956045",
@@ -235,7 +222,7 @@
       "posted": "2026-09-12",
       "score": 7,
       "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 18
+      "rank": 17
     },
     {
       "id": "jj_e06c16c1-a258-4f64-9632-5549524969dd",
@@ -248,7 +235,7 @@
       "posted": "2026-09-12",
       "score": 7,
       "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 19
+      "rank": 18
     },
     {
       "id": "li_4420442339",
@@ -261,6 +248,19 @@
       "posted": "2026-09-13",
       "score": 7,
       "why": "Director level (slightly below target); Amazon & Skyscanner marketplace experience",
+      "rank": 19
+    },
+    {
+      "id": "li_4467222119",
+      "role": "Vice President of Products",
+      "company": "Zest Search",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/vice-president-of-products-at-zest-search-4467222119",
+      "source": "LinkedIn",
+      "posted": "2026-09-14",
+      "score": 7,
+      "why": "VP Product level — direct match to current level",
       "rank": 20
     },
     {
@@ -271,20 +271,20 @@
       "salary": "Up to £130k + bonus + package",
       "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/ORACLE-GL-PRODUCT-OWNER-VP-6AB92F2A12203EAFAA/",
       "source": "JobServe",
-      "posted": "2026-09-13",
+      "posted": "2026-09-14",
       "score": 7,
       "why": "VP Product level — direct match to current level",
       "rank": 21
     },
     {
-      "id": "li_4451548232",
-      "role": "Head of Product",
-      "company": "Formula.",
-      "location": "London Area, United Kingdom",
+      "id": "li_4462284782",
+      "role": "Head of Product - PropTech",
+      "company": "Chapman Tate Associates",
+      "location": "Greater London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-formula-4451548232",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-proptech-at-chapman-tate-associates-4462284782",
       "source": "LinkedIn",
-      "posted": "2026-09-07",
+      "posted": "2026-09-08",
       "score": 6,
       "why": "Head of Product level",
       "rank": 22
@@ -303,19 +303,6 @@
       "rank": 23
     },
     {
-      "id": "li_4462284782",
-      "role": "Head of Product - PropTech",
-      "company": "Chapman Tate Associates",
-      "location": "Greater London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-proptech-at-chapman-tate-associates-4462284782",
-      "source": "LinkedIn",
-      "posted": "2026-09-08",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 24
-    },
-    {
       "id": "li_4446314251",
       "role": "Product Director Experian Consumer Services",
       "company": "Experian",
@@ -326,7 +313,7 @@
       "posted": "2026-09-08",
       "score": 6,
       "why": "Director level (slightly below target); Consumer platforms across all roles",
-      "rank": 25
+      "rank": 24
     },
     {
       "id": "li_4465012844",
@@ -339,7 +326,7 @@
       "posted": "2026-09-09",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 26
+      "rank": 25
     },
     {
       "id": "li_4456394182",
@@ -352,7 +339,7 @@
       "posted": "2026-09-10",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 27
+      "rank": 26
     },
     {
       "id": "li_4465872122",
@@ -365,7 +352,7 @@
       "posted": "2026-09-10",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 28
+      "rank": 27
     },
     {
       "id": "li_4454297972",
@@ -378,7 +365,7 @@
       "posted": "2026-09-11",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 29
+      "rank": 28
     },
     {
       "id": "li_4419869421",
@@ -391,7 +378,7 @@
       "posted": "2026-09-11",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 30
+      "rank": 29
     },
     {
       "id": "li_4464225552",
@@ -404,6 +391,19 @@
       "posted": "2026-09-11",
       "score": 6,
       "why": "Head of Product level",
+      "rank": 30
+    },
+    {
+      "id": "js_FE3DA9A42E48E5F3",
+      "role": "Product Director - B2B2C",
+      "company": "MLR Associates",
+      "location": "London HQ/Hybrid working, UK",
+      "salary": "£110-130k salary + benefits package",
+      "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/PRODUCT-DIRECTOR-B2B2C-FE3DA9A42E48E5F304/",
+      "source": "JobServe",
+      "posted": "2026-09-14",
+      "score": 6,
+      "why": "Director level (slightly below target); Consumer product background",
       "rank": 31
     },
     {
@@ -414,7 +414,7 @@
       "salary": "£120k - £130k per annum",
       "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/HEAD-OF-PRODUCT-DESIGN-7D793068E920EFB02F/",
       "source": "JobServe",
-      "posted": "2026-09-13",
+      "posted": "2026-09-14",
       "score": 6,
       "why": "Head of Product level",
       "rank": 32
