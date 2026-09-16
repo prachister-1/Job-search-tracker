@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-15",
-  "generated": "2026-09-15T21:04:47Z",
-  "count": 29,
+  "date": "2026-09-16",
+  "generated": "2026-09-16T21:20:46Z",
+  "count": 28,
   "jobs": [
     {
       "id": "li_2",
@@ -30,19 +30,6 @@
       "rank": 2
     },
     {
-      "id": "li_4465640732",
-      "role": "VP, Product, Retail",
-      "company": "Warner Bros. Discovery",
-      "location": "Hertfordshire, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/vp-product-retail-at-warner-bros-discovery-4465640732",
-      "source": "LinkedIn",
-      "posted": "2026-09-10",
-      "score": 8,
-      "why": "VP Product level — direct match to current level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 3
-    },
-    {
       "id": "li_4447063800",
       "role": "Head of Product (Mail)",
       "company": "Proton",
@@ -53,7 +40,7 @@
       "posted": "2026-09-12",
       "score": 8,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 4
+      "rank": 3
     },
     {
       "id": "li_4467720219",
@@ -66,6 +53,19 @@
       "posted": "2026-09-15",
       "score": 8,
       "why": "VP Product level — direct match to current level; Platform product leadership",
+      "rank": 4
+    },
+    {
+      "id": "li_4431695679",
+      "role": "AI Product Management (Senior Vice President)",
+      "company": "BNY",
+      "location": "Manchester, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/ai-product-management-senior-vice-president-at-bny-4431695679",
+      "source": "LinkedIn",
+      "posted": "2026-09-16",
+      "score": 8,
+      "why": "CPO/SVP level — her stated next step; AI-led product strategy; GenAI & agentic automation",
       "rank": 5
     },
     {
@@ -82,19 +82,6 @@
       "rank": 6
     },
     {
-      "id": "li_4463554772",
-      "role": "Global Product Director - AI Innovation",
-      "company": "Boston Consulting Group (BCG)",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/global-product-director-ai-innovation-at-boston-consulting-group-bcg-4463554772",
-      "source": "LinkedIn",
-      "posted": "2026-09-08",
-      "score": 7,
-      "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 7
-    },
-    {
       "id": "li_4457302620",
       "role": "Vice President, Product Launch",
       "company": "HarbourVest Partners",
@@ -105,20 +92,7 @@
       "posted": "2026-09-11",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 8
-    },
-    {
-      "id": "li_4464852238",
-      "role": "Senior Vice President, Product Manager - Liquidity Management Services (LMS) - Services",
-      "company": "Citi",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/senior-vice-president-product-manager-liquidity-management-services-lms-services-at-citi-4464852238",
-      "source": "LinkedIn",
-      "posted": "2026-09-11",
-      "score": 7,
-      "why": "CPO/SVP level — her stated next step",
-      "rank": 9
+      "rank": 7
     },
     {
       "id": "li_4463964684",
@@ -131,7 +105,7 @@
       "posted": "2026-09-11",
       "score": 7,
       "why": "Head of Product level; Payments & embedded finance at Planet/Collinson",
-      "rank": 10
+      "rank": 8
     },
     {
       "id": "li_4464884969",
@@ -144,20 +118,20 @@
       "posted": "2026-09-11",
       "score": 7,
       "why": "Director level (slightly below target); Planet payments platform; embedded finance",
-      "rank": 11
+      "rank": 9
     },
     {
-      "id": "li_4387132815",
-      "role": "Senior Product Director, Business Banking",
-      "company": "Monzo",
+      "id": "li_4464852238",
+      "role": "Senior Vice President, Product Manager - Liquidity Management Services (LMS) - Services",
+      "company": "Citi",
       "location": "London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/senior-product-director-business-banking-at-monzo-4387132815",
+      "url": "https://uk.linkedin.com/jobs/view/senior-vice-president-product-manager-liquidity-management-services-lms-services-at-citi-4464852238",
       "source": "LinkedIn",
       "posted": "2026-09-11",
       "score": 7,
-      "why": "Director level (slightly below target); Fintech-adjacent payments experience; target/known company: Monzo",
-      "rank": 12
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 10
     },
     {
       "id": "li_4466704743",
@@ -170,7 +144,7 @@
       "posted": "2026-09-12",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 13
+      "rank": 11
     },
     {
       "id": "li_4430956045",
@@ -183,7 +157,7 @@
       "posted": "2026-09-12",
       "score": 7,
       "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 14
+      "rank": 12
     },
     {
       "id": "jj_e06c16c1-a258-4f64-9632-5549524969dd",
@@ -196,7 +170,7 @@
       "posted": "2026-09-12",
       "score": 7,
       "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 15
+      "rank": 13
     },
     {
       "id": "li_4420442339",
@@ -209,7 +183,7 @@
       "posted": "2026-09-13",
       "score": 7,
       "why": "Director level (slightly below target); Amazon & Skyscanner marketplace experience",
-      "rank": 16
+      "rank": 14
     },
     {
       "id": "li_4467222119",
@@ -222,7 +196,7 @@
       "posted": "2026-09-14",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 17
+      "rank": 15
     },
     {
       "id": "li_4455716675",
@@ -235,6 +209,32 @@
       "posted": "2026-09-15",
       "score": 7,
       "why": "VP Product level — direct match to current level",
+      "rank": 16
+    },
+    {
+      "id": "li_4468226575",
+      "role": "VP Product Management - Berghaus",
+      "company": "Pentland Brands",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/vp-product-management-berghaus-at-pentland-brands-4468226575",
+      "source": "LinkedIn",
+      "posted": "2026-09-16",
+      "score": 7,
+      "why": "VP Product level — direct match to current level",
+      "rank": 17
+    },
+    {
+      "id": "li_4413587791",
+      "role": "Director of Product Management - Data Streaming",
+      "company": "HiveMQ",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/director-of-product-management-data-streaming-at-hivemq-4413587791",
+      "source": "LinkedIn",
+      "posted": "2026-09-16",
+      "score": 7,
+      "why": "Director level (slightly below target); Amazon Prime Video — 180+ countries",
       "rank": 18
     },
     {
@@ -245,23 +245,10 @@
       "salary": "Up to £130k + bonus + package",
       "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/ORACLE-GL-PRODUCT-OWNER-VP-68A958FF64D3EE21F7/",
       "source": "JobServe",
-      "posted": "2026-09-15",
+      "posted": "2026-09-16",
       "score": 7,
       "why": "VP Product level — direct match to current level",
       "rank": 19
-    },
-    {
-      "id": "li_4465012844",
-      "role": "Head of Product",
-      "company": "Burns Sheehan",
-      "location": "London Area, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-burns-sheehan-4465012844",
-      "source": "LinkedIn",
-      "posted": "2026-09-09",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 20
     },
     {
       "id": "li_4456394182",
@@ -274,7 +261,7 @@
       "posted": "2026-09-10",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 21
+      "rank": 20
     },
     {
       "id": "li_4465872122",
@@ -287,7 +274,7 @@
       "posted": "2026-09-10",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 22
+      "rank": 21
     },
     {
       "id": "li_4454297972",
@@ -300,6 +287,19 @@
       "posted": "2026-09-11",
       "score": 6,
       "why": "VP Product level — direct match to current level",
+      "rank": 22
+    },
+    {
+      "id": "li_4464225552",
+      "role": "Head of Product",
+      "company": "Diaceutics PLC",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-diaceutics-plc-4464225552",
+      "source": "LinkedIn",
+      "posted": "2026-09-11",
+      "score": 6,
+      "why": "Head of Product level",
       "rank": 23
     },
     {
@@ -316,32 +316,6 @@
       "rank": 24
     },
     {
-      "id": "li_4464225552",
-      "role": "Head of Product",
-      "company": "Diaceutics PLC",
-      "location": "London Area, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-diaceutics-plc-4464225552",
-      "source": "LinkedIn",
-      "posted": "2026-09-11",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 25
-    },
-    {
-      "id": "li_4467214698",
-      "role": "Head of Product",
-      "company": "ConversionWise",
-      "location": "City Of Bristol, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-conversionwise-4467214698",
-      "source": "LinkedIn",
-      "posted": "2026-09-14",
-      "score": 6,
-      "why": "Head of Product level; target/known company: Wise",
-      "rank": 26
-    },
-    {
       "id": "li_4467709758",
       "role": "Chief Product Officer",
       "company": "LG select Ltd",
@@ -352,7 +326,20 @@
       "posted": "2026-09-15",
       "score": 6,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 27
+      "rank": 25
+    },
+    {
+      "id": "li_4467959157",
+      "role": "Data Product & Governance Lead Vice President",
+      "company": "JPMorganChase",
+      "location": "Bournemouth, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/data-product-governance-lead-vice-president-at-jpmorganchase-4467959157",
+      "source": "LinkedIn",
+      "posted": "2026-09-16",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 26
     },
     {
       "id": "js_FE3DA9A42E48E5F3",
@@ -362,10 +349,10 @@
       "salary": "£110-130k salary + benefits package",
       "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/PRODUCT-DIRECTOR-B2B2C-FE3DA9A42E48E5F304/",
       "source": "JobServe",
-      "posted": "2026-09-15",
+      "posted": "2026-09-16",
       "score": 6,
       "why": "Director level (slightly below target); Consumer product background",
-      "rank": 28
+      "rank": 27
     },
     {
       "id": "js_7D793068E920EFB0",
@@ -375,10 +362,10 @@
       "salary": "£120k - £130k per annum",
       "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/HEAD-OF-PRODUCT-DESIGN-7D793068E920EFB02F/",
       "source": "JobServe",
-      "posted": "2026-09-15",
+      "posted": "2026-09-16",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 29
+      "rank": 28
     }
   ]
 }
