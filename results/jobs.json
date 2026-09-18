@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-17",
-  "generated": "2026-09-17T21:05:04Z",
-  "count": 30,
+  "date": "2026-09-18",
+  "generated": "2026-09-18T21:04:56Z",
+  "count": 24,
   "jobs": [
     {
       "id": "li_2",
@@ -30,6 +30,19 @@
       "rank": 2
     },
     {
+      "id": "li_4430956045",
+      "role": "Head of Product Management, Forward Deployed & Strategy",
+      "company": "Scale AI",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-management-forward-deployed-strategy-at-scale-ai-4430956045",
+      "source": "LinkedIn",
+      "posted": "2026-09-12",
+      "score": 8,
+      "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
+      "rank": 3
+    },
+    {
       "id": "li_4447063800",
       "role": "Head of Product (Mail)",
       "company": "Proton",
@@ -40,7 +53,7 @@
       "posted": "2026-09-12",
       "score": 8,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "li_4467720219",
@@ -53,7 +66,7 @@
       "posted": "2026-09-15",
       "score": 8,
       "why": "VP Product level — direct match to current level; Platform product leadership",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "li_4431695679",
@@ -66,7 +79,7 @@
       "posted": "2026-09-16",
       "score": 8,
       "why": "CPO/SVP level — her stated next step; AI-led product strategy; GenAI & agentic automation",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "reed_57298364",
@@ -79,59 +92,7 @@
       "posted": "2026-09-01",
       "score": 7,
       "why": "Head of Product level; Payments & embedded finance at Planet/Collinson",
-      "rank": 6
-    },
-    {
-      "id": "li_4457302620",
-      "role": "Vice President, Product Launch",
-      "company": "HarbourVest Partners",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/vice-president-product-launch-at-harbourvest-partners-4457302620",
-      "source": "LinkedIn",
-      "posted": "2026-09-11",
-      "score": 7,
-      "why": "VP Product level — direct match to current level",
       "rank": 7
-    },
-    {
-      "id": "li_4463964684",
-      "role": "Head of Product - Start up Fintech",
-      "company": "MRJ Recruitment",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-start-up-fintech-at-mrj-recruitment-4463964684",
-      "source": "LinkedIn",
-      "posted": "2026-09-11",
-      "score": 7,
-      "why": "Head of Product level; Payments & embedded finance at Planet/Collinson",
-      "rank": 8
-    },
-    {
-      "id": "li_4464884969",
-      "role": "Director, Product - Payments EMEA",
-      "company": "Western Union",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/director-product-payments-emea-at-western-union-4464884969",
-      "source": "LinkedIn",
-      "posted": "2026-09-11",
-      "score": 7,
-      "why": "Director level (slightly below target); Planet payments platform; embedded finance",
-      "rank": 9
-    },
-    {
-      "id": "li_4464852238",
-      "role": "Senior Vice President, Product Manager - Liquidity Management Services (LMS) - Services",
-      "company": "Citi",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/senior-vice-president-product-manager-liquidity-management-services-lms-services-at-citi-4464852238",
-      "source": "LinkedIn",
-      "posted": "2026-09-11",
-      "score": 7,
-      "why": "CPO/SVP level — her stated next step",
-      "rank": 10
     },
     {
       "id": "li_4466704743",
@@ -144,20 +105,7 @@
       "posted": "2026-09-12",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 11
-    },
-    {
-      "id": "li_4430956045",
-      "role": "Director of Product Management, Forward Deployed & Strategy",
-      "company": "Scale AI",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/director-of-product-management-forward-deployed-strategy-at-scale-ai-4430956045",
-      "source": "LinkedIn",
-      "posted": "2026-09-12",
-      "score": 7,
-      "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 12
+      "rank": 8
     },
     {
       "id": "jj_e06c16c1-a258-4f64-9632-5549524969dd",
@@ -170,7 +118,7 @@
       "posted": "2026-09-12",
       "score": 7,
       "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 13
+      "rank": 9
     },
     {
       "id": "li_4420442339",
@@ -183,7 +131,7 @@
       "posted": "2026-09-13",
       "score": 7,
       "why": "Director level (slightly below target); Amazon & Skyscanner marketplace experience",
-      "rank": 14
+      "rank": 10
     },
     {
       "id": "li_4467222119",
@@ -196,7 +144,7 @@
       "posted": "2026-09-14",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 15
+      "rank": 11
     },
     {
       "id": "li_4455716675",
@@ -209,7 +157,7 @@
       "posted": "2026-09-15",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 16
+      "rank": 12
     },
     {
       "id": "li_4468226575",
@@ -222,7 +170,7 @@
       "posted": "2026-09-16",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 17
+      "rank": 13
     },
     {
       "id": "li_4468297446",
@@ -235,7 +183,7 @@
       "posted": "2026-09-16",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 18
+      "rank": 14
     },
     {
       "id": "li_4413587791",
@@ -248,7 +196,7 @@
       "posted": "2026-09-16",
       "score": 7,
       "why": "Director level (slightly below target); Amazon Prime Video — 180+ countries",
-      "rank": 19
+      "rank": 15
     },
     {
       "id": "li_4468609298",
@@ -261,20 +209,20 @@
       "posted": "2026-09-17",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 20
+      "rank": 16
     },
     {
-      "id": "li_4413107628",
-      "role": "Product Director (Loyalty Sector)",
-      "company": "Comarch",
+      "id": "li_4458657147",
+      "role": "Investment Management - Senior Product Development Manager - Vice President",
+      "company": "Morgan Stanley",
       "location": "London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/product-director-loyalty-sector-at-comarch-4413107628",
+      "url": "https://uk.linkedin.com/jobs/view/investment-management-senior-product-development-manager-vice-president-at-morgan-stanley-4458657147",
       "source": "LinkedIn",
-      "posted": "2026-09-17",
+      "posted": "2026-09-18",
       "score": 7,
-      "why": "Director level (slightly below target); Priority Pass loyalty/membership — £70M+ revenue",
-      "rank": 21
+      "why": "VP Product level — direct match to current level",
+      "rank": 17
     },
     {
       "id": "js_68A958FF64D3EE21",
@@ -284,62 +232,10 @@
       "salary": "Up to £130k + bonus + package",
       "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/ORACLE-GL-PRODUCT-OWNER-VP-68A958FF64D3EE21F7/",
       "source": "JobServe",
-      "posted": "2026-09-17",
+      "posted": "2026-09-18",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 22
-    },
-    {
-      "id": "li_4465872122",
-      "role": "Head of Product",
-      "company": "Empee",
-      "location": "Greater London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-empee-4465872122",
-      "source": "LinkedIn",
-      "posted": "2026-09-10",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 23
-    },
-    {
-      "id": "li_4454297972",
-      "role": "VP, Product Management",
-      "company": "Provenir",
-      "location": "England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/vp-product-management-at-provenir-4454297972",
-      "source": "LinkedIn",
-      "posted": "2026-09-11",
-      "score": 6,
-      "why": "VP Product level — direct match to current level",
-      "rank": 24
-    },
-    {
-      "id": "li_4464225552",
-      "role": "Head of Product",
-      "company": "Diaceutics PLC",
-      "location": "London Area, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-diaceutics-plc-4464225552",
-      "source": "LinkedIn",
-      "posted": "2026-09-11",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 25
-    },
-    {
-      "id": "li_4467709758",
-      "role": "Chief Product Officer",
-      "company": "LG select Ltd",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/chief-product-officer-at-lg-select-ltd-4467709758",
-      "source": "LinkedIn",
-      "posted": "2026-09-15",
-      "score": 6,
-      "why": "CPO/SVP level — her stated next step",
-      "rank": 26
+      "rank": 18
     },
     {
       "id": "li_4467959157",
@@ -352,7 +248,7 @@
       "posted": "2026-09-16",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 27
+      "rank": 19
     },
     {
       "id": "li_4468616996",
@@ -365,7 +261,20 @@
       "posted": "2026-09-17",
       "score": 6,
       "why": "VP Product level — direct match to current level",
-      "rank": 28
+      "rank": 20
+    },
+    {
+      "id": "li_4467586016",
+      "role": "Head of Product",
+      "company": "QuantSpark",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-quantspark-4467586016",
+      "source": "LinkedIn",
+      "posted": "2026-09-17",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 21
     },
     {
       "id": "li_4466295036",
@@ -378,7 +287,20 @@
       "posted": "2026-09-17",
       "score": 6,
       "why": "Director level (slightly below target); Platform product leadership",
-      "rank": 29
+      "rank": 22
+    },
+    {
+      "id": "li_4469206082",
+      "role": "Head of Product, Multi-Product Experience",
+      "company": "Funding Circle UK",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-multi-product-experience-at-funding-circle-uk-4469206082",
+      "source": "LinkedIn",
+      "posted": "2026-09-18",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 23
     },
     {
       "id": "js_FE3DA9A42E48E5F3",
@@ -388,10 +310,10 @@
       "salary": "£110-130k salary + benefits package",
       "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/PRODUCT-DIRECTOR-B2B2C-FE3DA9A42E48E5F304/",
       "source": "JobServe",
-      "posted": "2026-09-17",
+      "posted": "2026-09-18",
       "score": 6,
       "why": "Director level (slightly below target); Consumer product background",
-      "rank": 30
+      "rank": 24
     }
   ]
 }
