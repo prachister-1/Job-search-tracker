@@ -242,7 +242,7 @@ function renderJobs(){
       <td><span class="score ${sc(sn)}">${sn}</span></td>
       <td><span class="src-badge">${j.source||'—'}</span></td>
       <td><button class="abtn ${isApp?'abtn-done':'abtn-go'}" onclick="toggleApplied(decodeURIComponent('${eu}'))">${isApp?'✓ Applied':'Mark Applied'}</button></td>
-      <td style="white-space:nowrap">${j.url?`<a class="lbtn" href="${j.url}" target="_blank" onclick="autoApply('${eu}')">View →</a>`:''} <a class="lbtn" title="Find this job via Google if the board link is blocked" href="https://www.google.com/search?q=${encodeURIComponent('"'+(j.role||'').replace(/\(.*?\)/g,'').trim()+'" '+(j.company||'')+' job')}" target="_blank">🔍</a></td>
+      <td style="white-space:nowrap">${(()=>{const q=encodeURIComponent((j.role||'').replace(/\(.*?\)/g,'').split(' at ')[0].trim()+' '+(j.company||'')+' job');const g='https://www.google.com/search?q='+q;const blocked=['Reed','TotalJobs','CWJobs','Adzuna'].includes(j.source);const href=blocked?g:(j.url||g);return `<a class="lbtn" href="${href}" target="_blank" onclick="autoApply('${eu}')">View →</a>`+(blocked&&j.url?` <a href="${j.url}" target="_blank" title="Original ${j.source} page (may be blocked)" style="font-size:.7rem;color:#64748b">board</a>`:'');})()}</td>
     </tr>`;
   }).join('');
   updateStats();
