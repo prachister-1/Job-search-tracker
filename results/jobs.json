@@ -1,20 +1,72 @@
 {
-  "date": "2026-10-16",
-  "generated": "2026-10-16T21:04:03Z",
-  "count": 26,
+  "date": "2026-10-17",
+  "generated": "2026-10-17T21:02:02Z",
+  "count": 59,
   "jobs": [
     {
-      "id": "li_2",
-      "role": "Head of Product – Retail eCommerce",
-      "company": "Boots UK",
+      "id": "li_4463110413",
+      "role": "VP, Product Payments Experience & Customer Loyalty",
+      "company": "Flywire",
       "location": "London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-%E2%80%93-retail-ecommerce-at-boots-uk-4479553885",
+      "url": "https://uk.linkedin.com/jobs/view/vp-product-payments-experience-customer-loyalty-at-flywire-4463110413",
       "source": "LinkedIn",
-      "posted": "2026-10-14",
-      "score": 9,
-      "why": "Head of Product level; Amazon background; conversion optimisation",
+      "posted": "2026-10-17",
+      "score": 10,
+      "why": "VP Product level — direct match to current level; Priority Pass loyalty/membership — £70M+ revenue",
       "rank": 1
+    },
+    {
+      "id": "totaljobs_108182370",
+      "role": "VP, Product Payments Experience & Customer Loyalty",
+      "company": "peerTransfer",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/vp-product-payments-experience-customer-loyalty/peertransfer-job108182370",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 9,
+      "why": "VP Product level — direct match to current level; Priority Pass loyalty/membership — £70M+ revenue",
+      "rank": 2
+    },
+    {
+      "id": "jobicy_155586",
+      "role": "Director of Product Design",
+      "company": "Monzo",
+      "location": "UK (Remote)",
+      "salary": "",
+      "url": "https://jobicy.com/jobs/155586-director-of-product-design-2",
+      "source": "Jobicy",
+      "posted": "2026-10-17",
+      "score": 9,
+      "why": "Director level (slightly below target); Fintech-adjacent payments experience; target/known company: Monzo",
+      "rank": 3
+    },
+    {
+      "id": "reed_57329302",
+      "role": "Head of Product Design",
+      "company": "Salt Search",
+      "location": "London",
+      "salary": "£120,000 – £130,000",
+      "url": "https://www.reed.co.uk/jobs/head-of-product-design/57329302",
+      "source": "Reed",
+      "posted": "2026-09-09",
+      "score": 8,
+      "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
+      "rank": 4
+    },
+    {
+      "id": "reed_57447673",
+      "role": "Head of Product (SaaS)",
+      "company": "Mobilus Ltd",
+      "location": "Milton Keynes",
+      "salary": "£80,000 – £90,000",
+      "url": "https://www.reed.co.uk/jobs/head-of-product-saas/57447673",
+      "source": "Reed",
+      "posted": "2026-10-12",
+      "score": 8,
+      "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
+      "rank": 5
     },
     {
       "id": "li_4476026503",
@@ -27,7 +79,20 @@
       "posted": "2026-10-12",
       "score": 8,
       "why": "Head of Product level; Planet payments platform; embedded finance",
-      "rank": 2
+      "rank": 6
+    },
+    {
+      "id": "li_2",
+      "role": "Head of Product – Retail eCommerce",
+      "company": "Boots UK",
+      "location": "Nottingham, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-%E2%80%93-retail-ecommerce-at-boots-uk-4479577146",
+      "source": "LinkedIn",
+      "posted": "2026-10-14",
+      "score": 8,
+      "why": "Head of Product level; Amazon background; conversion optimisation",
+      "rank": 7
     },
     {
       "id": "li_4479885488",
@@ -40,7 +105,72 @@
       "posted": "2026-10-15",
       "score": 8,
       "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
-      "rank": 3
+      "rank": 8
+    },
+    {
+      "id": "li_4470185911",
+      "role": "Head of Product, AI Enablement (f/m/d)",
+      "company": "Awin Global",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-ai-enablement-f-m-d-at-awin-global-4470185911",
+      "source": "LinkedIn",
+      "posted": "2026-10-17",
+      "score": 8,
+      "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
+      "rank": 9
+    },
+    {
+      "id": "li_4412050235",
+      "role": "Director of Product Management",
+      "company": "Sony Interactive Entertainment",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/director-of-product-management-at-sony-interactive-entertainment-4412050235",
+      "source": "LinkedIn",
+      "posted": "2026-10-17",
+      "score": 8,
+      "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
+      "rank": 10
+    },
+    {
+      "id": "cwjobs_108032085",
+      "role": "Enterprise Product Manager, Markets Operations Platforms, Vice President",
+      "company": "State Street Corporation",
+      "location": "London",
+      "salary": "Unspecified",
+      "url": "https://www.totaljobs.com/job/enterprise-product-manager-markets-operations-platforms-vice-president/state-street-corporation-job108032085",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 8,
+      "why": "VP Product level — direct match to current level; Platform product leadership",
+      "rank": 11
+    },
+    {
+      "id": "totaljobs_108194372",
+      "role": "Head of Product - Platform Growth (f/m/d)",
+      "company": "Imago",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/head-of-product-platform-growth-f-m-d/imago-job108194372",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 8,
+      "why": "Head of Product level; Acquisition/retention/monetisation specialist",
+      "rank": 12
+    },
+    {
+      "id": "him_m-f-d-6627430588",
+      "role": "Industrial Tech Co-Founder / CPO (100 % remote) (m/f/d)",
+      "company": "EWOR GmbH",
+      "location": "Worldwide (Remote)",
+      "salary": "",
+      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/industrial-tech-co-founder-cpo-100-remote-m-f-d-6627430588",
+      "source": "Himalayas",
+      "posted": "2026-10-17",
+      "score": 8,
+      "why": "CPO/SVP level — her stated next step; target/known company: Sumup",
+      "rank": 13
     },
     {
       "id": "wwr_tengagementgroup",
@@ -53,20 +183,20 @@
       "posted": "Wed, 23 Sep 2026",
       "score": 8,
       "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
-      "rank": 4
+      "rank": 14
     },
     {
-      "id": "li_4449438800",
-      "role": "Senior Vice President - Data Center Services Software Product Management & Ownership",
-      "company": "JPMorganChase",
-      "location": "Greater London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/senior-vice-president-data-center-services-software-product-management-ownership-at-jpmorganchase-4449438800",
-      "source": "LinkedIn",
-      "posted": "2026-10-10",
+      "id": "reed_57372279",
+      "role": "Product Controller VP",
+      "company": "Inventum Group ",
+      "location": "London",
+      "salary": "£90,000 – £110,000",
+      "url": "https://www.reed.co.uk/jobs/product-controller-vp/57372279",
+      "source": "Reed",
+      "posted": "2026-09-21",
       "score": 7,
-      "why": "CPO/SVP level — her stated next step",
-      "rank": 5
+      "why": "VP Product level — direct match to current level",
+      "rank": 15
     },
     {
       "id": "li_4299333834",
@@ -79,7 +209,7 @@
       "posted": "2026-10-11",
       "score": 7,
       "why": "Director level (slightly below target); Fintech-adjacent payments experience; target/known company: Wise",
-      "rank": 6
+      "rank": 16
     },
     {
       "id": "li_4472717459",
@@ -92,20 +222,20 @@
       "posted": "2026-10-12",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 7
+      "rank": 17
     },
     {
-      "id": "li_4476642987",
-      "role": "Vice President of Product Management",
-      "company": "Intelligent People",
-      "location": "London Area, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/vice-president-of-product-management-at-intelligent-people-4476642987",
-      "source": "LinkedIn",
+      "id": "reed_57459695",
+      "role": "Vice President Product and Valuation Controller",
+      "company": "Robert Walters",
+      "location": "London",
+      "salary": "£100,000 – £120,000",
+      "url": "https://www.reed.co.uk/jobs/vice-president-product-and-valuation-controller/57459695",
+      "source": "Reed",
       "posted": "2026-10-14",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 8
+      "rank": 18
     },
     {
       "id": "li_4431933725",
@@ -118,20 +248,20 @@
       "posted": "2026-10-14",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 9
+      "rank": 19
     },
     {
-      "id": "li_4471452975",
-      "role": "Vice President, Technology Product Manager",
-      "company": "BlackRock",
-      "location": "London, England, United Kingdom",
+      "id": "li_4476642987",
+      "role": "Vice President of Product Management",
+      "company": "Intelligent People",
+      "location": "London Area, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/vice-president-technology-product-manager-at-blackrock-4471452975",
+      "url": "https://uk.linkedin.com/jobs/view/vice-president-of-product-management-at-intelligent-people-4476642987",
       "source": "LinkedIn",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "score": 7,
       "why": "VP Product level — direct match to current level",
-      "rank": 10
+      "rank": 20
     },
     {
       "id": "li_1",
@@ -144,59 +274,163 @@
       "posted": "2026-10-15",
       "score": 7,
       "why": "CPO/SVP level — her stated next step",
-      "rank": 11
+      "rank": 21
     },
     {
-      "id": "li_4479169408",
-      "role": "Head of Product - Subscriptions",
-      "company": "Tide",
-      "location": "England, United Kingdom",
+      "id": "li_4471452975",
+      "role": "Vice President, Technology Product Manager",
+      "company": "BlackRock",
+      "location": "London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-subscriptions-at-tide-4479169408",
+      "url": "https://uk.linkedin.com/jobs/view/vice-president-technology-product-manager-at-blackrock-4471452975",
       "source": "LinkedIn",
       "posted": "2026-10-15",
       "score": 7,
-      "why": "Head of Product level; Grew Priority Pass subscribers +62%; Prime Video subs",
-      "rank": 12
+      "why": "VP Product level — direct match to current level",
+      "rank": 22
     },
     {
-      "id": "js_81C9EDB5E152A076",
-      "role": "Head of Product - SaaS",
-      "company": "Mobilus Limited",
-      "location": "Bletchley, Buckinghamshire, UK",
-      "salary": "80k - 90k Annual + Bonus GBP",
-      "url": "https://www.jobserve.com/gb/en/search-jobs-in-Buckinghamshire,-United-Kingdom/HEAD-OF-PRODUCT-SAAS-81C9EDB5E152A07678/",
-      "source": "JobServe",
+      "id": "li_4413290752",
+      "role": "IPB Digital & Data Transformation - Investment Implementation Product Manager - Vice President",
+      "company": "JPMorganChase",
+      "location": "Greater London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/ipb-digital-data-transformation-investment-implementation-product-manager-vice-president-at-jpmorganchase-4413290752",
+      "source": "LinkedIn",
       "posted": "2026-10-16",
       "score": 7,
-      "why": "Head of Product level; Planet B2B SaaS; Ensek billing platform",
-      "rank": 13
+      "why": "VP Product level — direct match to current level",
+      "rank": 23
     },
     {
-      "id": "li_4469206082",
-      "role": "Head of Product, Multi-Product Experience",
-      "company": "Funding Circle UK",
-      "location": "London, England, United Kingdom",
+      "id": "li_4427937465",
+      "role": "Securities Services - Agency Securities Finance Product Manager - Vice President",
+      "company": "JPMorganChase",
+      "location": "Greater London, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-multi-product-experience-at-funding-circle-uk-4469206082",
+      "url": "https://uk.linkedin.com/jobs/view/securities-services-agency-securities-finance-product-manager-vice-president-at-jpmorganchase-4427937465",
       "source": "LinkedIn",
-      "posted": "2026-10-10",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 14
+      "posted": "2026-10-16",
+      "score": 7,
+      "why": "VP Product level — direct match to current level",
+      "rank": 24
     },
     {
-      "id": "li_4476019981",
-      "role": "Head of Product",
-      "company": "iProov",
-      "location": "London, England, United Kingdom",
+      "id": "totaljobs_108176650",
+      "role": "Senior Product Designer, Vice President",
+      "company": "State Street Corporation",
+      "location": "London",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-iproov-4476019981",
-      "source": "LinkedIn",
-      "posted": "2026-10-12",
+      "url": "https://www.totaljobs.com/job/senior-product-designer-vice-president/state-street-corporation-job108176650",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 7,
+      "why": "VP Product level — direct match to current level",
+      "rank": 25
+    },
+    {
+      "id": "cwjobs_108028086",
+      "role": "Investment Management - Senior Product Development Manager - Vice President",
+      "company": "Morgan Stanley",
+      "location": "London",
+      "salary": "Unspecified",
+      "url": "https://www.totaljobs.com/job/investment-management-senior-product-development-manager-vice-president/morgan-stanley-job108028086",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 7,
+      "why": "VP Product level — direct match to current level",
+      "rank": 26
+    },
+    {
+      "id": "cwjobs_108028085",
+      "role": "Structured and Exchange-Traded Product Market-Making Developer - VP",
+      "company": "Morgan Stanley",
+      "location": "London",
+      "salary": "Unspecified",
+      "url": "https://www.totaljobs.com/job/structured-and-exchange-traded-product-market-making-developer-vp/morgan-stanley-job108028085",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 7,
+      "why": "VP Product level — direct match to current level",
+      "rank": 27
+    },
+    {
+      "id": "cwjobs_108045196",
+      "role": "Head of Product (Fraud)",
+      "company": "Revolut",
+      "location": "London",
+      "salary": "Unspecified",
+      "url": "https://www.totaljobs.com/job/head-of-product-fraud/revolut-job108045196",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 7,
+      "why": "Head of Product level; target/known company: Revolut",
+      "rank": 28
+    },
+    {
+      "id": "cwjobs_108032092",
+      "role": "Head of Product Development and Implementation – LATAM integration , SVP",
+      "company": "State Street Corporation",
+      "location": "London",
+      "salary": "Unspecified",
+      "url": "https://www.totaljobs.com/job/head-of-product-development-and-implementation-latam-integration-svp/state-street-corporation-job108032092",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 7,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 29
+    },
+    {
+      "id": "cwjobs_108048251",
+      "role": "Head of Product, AI Enablement (f/m/d)",
+      "company": "Awin Ltd",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/head-of-product-ai-enablement-f-m-d/awin-ltd-job108048251",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 7,
+      "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
+      "rank": 30
+    },
+    {
+      "id": "reed_57394908",
+      "role": "Head of Product, AI Enablement (f/m/d)",
+      "company": "Awin",
+      "location": "London",
+      "salary": "£12,000 – £160,000",
+      "url": "https://www.reed.co.uk/jobs/head-of-product-ai-enablement-f-m-d/57394908",
+      "source": "Reed",
+      "posted": "2026-09-25",
+      "score": 6,
+      "why": "Head of Product level; AI-led product strategy; GenAI & agentic automation",
+      "rank": 31
+    },
+    {
+      "id": "reed_57392704",
+      "role": "Head of Product Management",
+      "company": "Oscar Technology",
+      "location": "London",
+      "salary": "£100,000 – £120,000",
+      "url": "https://www.reed.co.uk/jobs/head-of-product-management/57392704",
+      "source": "Reed",
+      "posted": "2026-09-25",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 15
+      "rank": 32
+    },
+    {
+      "id": "reed_57413055",
+      "role": "Head of Product Development",
+      "company": "Zachary Daniels",
+      "location": "Oldham",
+      "salary": "£80,000 – £100,000",
+      "url": "https://www.reed.co.uk/jobs/head-of-product-development/57413055",
+      "source": "Reed",
+      "posted": "2026-10-01",
+      "score": 6,
+      "why": "Head of Product level; Consumer platforms across all roles",
+      "rank": 33
     },
     {
       "id": "li_4477557166",
@@ -209,7 +443,7 @@
       "posted": "2026-10-12",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 16
+      "rank": 34
     },
     {
       "id": "li_4476004282",
@@ -222,7 +456,7 @@
       "posted": "2026-10-12",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 17
+      "rank": 35
     },
     {
       "id": "li_4476497349",
@@ -235,7 +469,7 @@
       "posted": "2026-10-13",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 18
+      "rank": 36
     },
     {
       "id": "li_4470291570",
@@ -248,33 +482,7 @@
       "posted": "2026-10-13",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 19
-    },
-    {
-      "id": "li_4470938474",
-      "role": "Vice President, POM Product Owner",
-      "company": "BNY",
-      "location": "Manchester, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/vice-president-pom-product-owner-at-bny-4470938474",
-      "source": "LinkedIn",
-      "posted": "2026-10-14",
-      "score": 6,
-      "why": "VP Product level — direct match to current level",
-      "rank": 20
-    },
-    {
-      "id": "li_4479124976",
-      "role": "Head of Product",
-      "company": "Verda",
-      "location": "London, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-verda-4479124976",
-      "source": "LinkedIn",
-      "posted": "2026-10-15",
-      "score": 6,
-      "why": "Head of Product level",
-      "rank": 21
+      "rank": 37
     },
     {
       "id": "li_4469472281",
@@ -287,7 +495,20 @@
       "posted": "2026-10-15",
       "score": 6,
       "why": "Director level (slightly below target); target/known company: Wise",
-      "rank": 22
+      "rank": 38
+    },
+    {
+      "id": "li_4479124976",
+      "role": "Head of Product",
+      "company": "Verda",
+      "location": "London, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-product-at-verda-4479124976",
+      "source": "LinkedIn",
+      "posted": "2026-10-15",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 39
     },
     {
       "id": "li_4479793389",
@@ -300,7 +521,7 @@
       "posted": "2026-10-15",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 23
+      "rank": 40
     },
     {
       "id": "li_4479312322",
@@ -313,33 +534,241 @@
       "posted": "2026-10-16",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 24
+      "rank": 41
     },
     {
-      "id": "js_74F72792B44D848D",
+      "id": "totaljobs_108177240",
+      "role": "Vice President, Product and Innovation Execution Team",
+      "company": "The Bank of New York Mellon",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/vice-president-product-and-innovation-execution-team/the-bank-of-new-york-mellon-job108177240",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 42
+    },
+    {
+      "id": "totaljobs_108150732",
+      "role": "Vice President, Product Launch",
+      "company": "Harbourvest Partners (UK) Ltd",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/vice-president-product-launch/harbourvest-partners-uk-ltd-job108150732",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 43
+    },
+    {
+      "id": "totaljobs_108164936",
+      "role": "Vice President, POM Product Owner",
+      "company": "The Bank of New York Mellon",
+      "location": "Manchester, Greater Manchester",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/vice-president-pom-product-owner/the-bank-of-new-york-mellon-job108164936",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 44
+    },
+    {
+      "id": "totaljobs_108185183",
+      "role": "Vice President, Digital Assets Custody, Product Manager (Expansion)",
+      "company": "The Bank of New York Mellon",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/vice-president-digital-assets-custody-product-manager-expansion/the-bank-of-new-york-mellon-job108185183",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "VP Product level — direct match to current level",
+      "rank": 45
+    },
+    {
+      "id": "totaljobs_107975099",
+      "role": "Senior Vice President, Product Owner (Global Collateral)",
+      "company": "The Bank of New York Mellon",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/senior-vice-president-product-owner-global-collateral/the-bank-of-new-york-mellon-job107975099",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 46
+    },
+    {
+      "id": "totaljobs_107975087",
+      "role": "Senior Vice President POM Product Manager Middle East",
+      "company": "The Bank of New York Mellon",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/senior-vice-president-pom-product-manager-middle-east/the-bank-of-new-york-mellon-job107975087",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 47
+    },
+    {
+      "id": "cwjobs_107978288",
+      "role": "Oracle EPM Product Owner - VP Banking",
+      "company": "Huxley Associates",
+      "location": "City of London (EC1), EC1",
+      "salary": "£70000 - £120000 per annum",
+      "url": "https://www.totaljobs.com/job/oracle-epm-product-owner-vp-banking/huxley-associates-job107978288",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "VP Product level — direct match to current level; Fintech-adjacent payments experience",
+      "rank": 48
+    },
+    {
+      "id": "totaljobs_108100836",
+      "role": "Chief Product Officer",
+      "company": "Log my Care",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/chief-product-officer/log-my-care-job108100836",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 49
+    },
+    {
+      "id": "totaljobs_107964320",
+      "role": "Chief Product Officer",
+      "company": "House of CB",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/chief-product-officer/house-of-cb-job107964320",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 50
+    },
+    {
+      "id": "totaljobs_108141240",
+      "role": "Associate - CPO",
+      "company": "Gateley LLP",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/associate-cpo/gateley-llp-job108141240",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "CPO/SVP level — her stated next step",
+      "rank": 51
+    },
+    {
+      "id": "cwjobs_108177237",
+      "role": "Product Director - Innovation & AI",
+      "company": "FINASTRA INTERNATIONAL LIMITED",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/product-director-innovation-ai/finastra-international-limited-job108177237",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "Director level (slightly below target); AI-led product strategy; GenAI & agentic automation",
+      "rank": 52
+    },
+    {
+      "id": "cwjobs_108076976",
+      "role": "Product Director, Flex (Borrowing)",
+      "company": "Monzo",
+      "location": "London",
+      "salary": "Unspecified",
+      "url": "https://www.totaljobs.com/job/product-director-flex-borrowing/monzo-job108076976",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "Director level (slightly below target); target/known company: Monzo",
+      "rank": 53
+    },
+    {
+      "id": "totaljobs_108161993",
       "role": "Head of Product Design",
       "company": "Salt",
-      "location": "London, UK",
-      "salary": "£120k - £130k per annum",
-      "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/HEAD-OF-PRODUCT-DESIGN-74F72792B44D848D1C/",
-      "source": "JobServe",
-      "posted": "2026-10-16",
+      "location": "London",
+      "salary": "£120000 - £130000 per annum",
+      "url": "https://www.totaljobs.com/job/head-of-product-design/salt-job108161993",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 25
+      "rank": 54
     },
     {
-      "id": "js_CB524ED9174F77FA",
-      "role": "Head of Product Development & Innovation - North American Casualty",
-      "company": "WTW",
-      "location": "London, UK",
-      "salary": "GBP",
-      "url": "https://www.jobserve.com/gb/en/search-jobs-in-London,-London,-United-Kingdom/HEAD-OF-PRODUCT-DEVELOPMENT-INNOVATION-NORTH-AMERICAN-CASUALTY-CB524ED9174F77FAF3/",
-      "source": "JobServe",
-      "posted": "2026-10-16",
+      "id": "totaljobs_108018895",
+      "role": "Head of Product",
+      "company": "Hackajob Ltd",
+      "location": "South West London (SW1)",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/head-of-product/hackajob-ltd-job108018895",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
       "score": 6,
       "why": "Head of Product level",
-      "rank": 26
+      "rank": 55
+    },
+    {
+      "id": "totaljobs_108041983",
+      "role": "Head of Product Management",
+      "company": "Oscar Associates (UK) Limited",
+      "location": "London",
+      "salary": "£100000 - £120000 per annum + competitive",
+      "url": "https://www.totaljobs.com/job/head-of-product-management/oscar-associates-uk-limited-job108041983",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 56
+    },
+    {
+      "id": "totaljobs_107980142",
+      "role": "Head of Product Development",
+      "company": "Seven Search & Selection",
+      "location": "West London, London",
+      "salary": "Up to £100,000 per annum plus excellent benefits",
+      "url": "https://www.totaljobs.com/job/head-of-product-development/seven-search-selection-job107980142",
+      "source": "TotalJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 57
+    },
+    {
+      "id": "cwjobs_108163070",
+      "role": "Head of Product - Platform & Content",
+      "company": "Bright Horizons Family Solutions Limited",
+      "location": "South East",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/head-of-product-platform-content/bright-horizons-family-solutions-limited-job108163070",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "Head of Product level; Platform product leadership",
+      "rank": 58
+    },
+    {
+      "id": "cwjobs_108154826",
+      "role": "Director, Head of Product Marketing, EMEA & APAC",
+      "company": "Janus Henderson Investors",
+      "location": "City of London, London",
+      "salary": "Competitive",
+      "url": "https://www.totaljobs.com/job/director-head-of-product-marketing-emea-apac/janus-henderson-investors-job108154826",
+      "source": "CWJobs",
+      "posted": "2026-10-17",
+      "score": 6,
+      "why": "Head of Product level",
+      "rank": 59
     }
   ]
 }
